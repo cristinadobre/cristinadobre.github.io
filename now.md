@@ -16,7 +16,7 @@ I'm the posters&demonstration chair for our annual [conference on Intelligence G
 ## Podcasts
 Podcasts currently binge listening: 
 * [Invisibilia](https://www.npr.org/invisibilia/)
-* [Voices of VR](www.voicesofvr.com/)
+* [Voices of VR](http://voicesofvr.com/)
 
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  If you wonder why do I have this section?  [Check this out](https://nownownow.com/about)! 
