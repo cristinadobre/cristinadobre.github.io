@@ -34,3 +34,7 @@ and tweet/dm me *@shesCristina*
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  If you wonder why do I have this section?  [Check this out](https://nownownow.com/about)! 
 *This was last updated on 10/08/2018*
+
+---
+---
+*So what now? Maybe check out [my projects](https://cristinadobre.github.io/now.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
