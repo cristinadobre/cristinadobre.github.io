@@ -1,5 +1,5 @@
 # **What is she doing now?**
-
+<br><br><br>
 ## Work&Studies
 
 Currently I'm undertaking exploratory research on dyadic conversation with a slight focus on low-level verbal and non-verbal cues that influence the overall interaction between people.
@@ -22,9 +22,7 @@ Podcasts currently binge listening:
 * [Mindscape](https://www.preposterousuniverse.com/podcast/2018/07/02/welcome-to-the-mindscape-podcast/)
 * [Invisibilia](https://www.npr.org/invisibilia/)
 * [Voices of VR](http://voicesofvr.com/)
-
-
-
+<br><br>
 
 ### Any thoughts, suggestions? Contact me!
 send me your message at *c* dot *dobre* at *gold* dot *ac* dot *uk* 
@@ -36,6 +34,5 @@ This page is inspired by [Derek Sivers](https://sivers.org/).  If you wonder why
 
 *This was last updated on 10/08/2018*
 
----
----
+<br><br>
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
