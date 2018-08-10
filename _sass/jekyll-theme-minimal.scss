@@ -235,6 +235,7 @@ footer {
   }
 
   header ul {
+    list-style:none;
     position:absolute;
     right:50px;
     top:52px;
@@ -251,6 +252,7 @@ footer {
   }
 
   header ul, header p.view {
+    list-style:none;
     position:static;
   }
 
