@@ -33,6 +33,7 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  If you wonder why do I have this section?  [Check this out](https://nownownow.com/about)! 
+
 *This was last updated on 10/08/2018*
 
 ---
