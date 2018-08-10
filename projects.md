@@ -1,5 +1,5 @@
 # Selection of Projects
-
+<br><br><br>
 ## VR Escape Room/Puzzle-like experience
 May 2018
 
@@ -10,6 +10,7 @@ This is a game prototype for an escaperoom/puzzle-like experience in 6DoF VR. Th
 This prototype was created by myself in Unity 3D using Oculus SDK and VRTK for the Game Development module (14/05/18 - 25/05/18).
 
 ---
+<br>
 
 ## Global Game Jam Game: QT-Labs
 Jan 2018 
@@ -19,6 +20,7 @@ Jan 2018
 This is a VR game created in Unity3D over a weekend during the 2018 Global Game Jam (Queen Mary UoL site). The team had six members: one sound effect & music member, two 3D and 2D artists who created and designed the game assets and three developers. I was one of the three developers, having the role of implementing the game logic and testing the game. Here's our [porject overview on GGJ website](https://globalgamejam.org/2018/games/qt-labs) and here's a [short gameplay.](https://vimeo.com/253292962)
 
 ---
+<br>
 
 ## StarWing Genetica
 Nov 2017 
@@ -30,5 +32,6 @@ This is a game developed in Unity over the course of a 2-weeks Game Development 
 It was designed and built by a team of three: Charlie Ringer, Valerio Bonametti, and myself.
 
 ---
----
+<br><br>
+
 *So what now? Maybe check out [what I'm doing now](https://cristinadobre.github.io/now.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
