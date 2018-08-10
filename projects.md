@@ -25,7 +25,7 @@ Nov 2017
 
 
 
-[logo]: https://github.com/cristinadobre/cristinadobre.github.io/blob/master/assets/img/starwinggenetica.PNG
+logo: /assets/img/starwinggenetica.PNG
 
 
 This is a game developed in Unity over the course of a 2-weeks Game Development module in Goldsmiths UoL. StarWing Genetica is a one player space-themed shooter game, partly inspired by classic arcade games. In this game, a genetic algorithm is used to evolve better enemy agents over time. [Here's a short gameplay.](https://www.youtube.com/watch?v=n4fnTExbxMs&feature=youtu.be)
