@@ -23,7 +23,7 @@ This is a VR game created in Unity3D over a weekend during the 2018 Global Game 
 ## StarWing Genetica
 Nov 2017 
 
-
+![StarwingGenetica](/assets/img/starwinggenetica.PNG)
 
 This is a game developed in Unity over the course of a 2-weeks Game Development module in Goldsmiths UoL. StarWing Genetica is a one player space-themed shooter game, partly inspired by classic arcade games. In this game, a genetic algorithm is used to evolve better enemy agents over time. [Here's a short gameplay.](https://www.youtube.com/watch?v=n4fnTExbxMs&feature=youtu.be)
 
