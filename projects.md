@@ -32,6 +32,6 @@ This is a game developed in Unity over the course of a 2-weeks Game Development 
 It was designed and built by a team of three: Charlie Ringer, Valerio Bonametti, and myself.
 
 ---
-<br><br>
+<br>
 
 *So what now? Maybe check out [what I'm doing now](https://cristinadobre.github.io/now.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
