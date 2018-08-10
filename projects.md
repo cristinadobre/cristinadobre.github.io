@@ -28,3 +28,7 @@ Nov 2017
 This is a game developed in Unity over the course of a 2-weeks Game Development module in Goldsmiths UoL. StarWing Genetica is a one player space-themed shooter game, partly inspired by classic arcade games. In this game, a genetic algorithm is used to evolve better enemy agents over time. [Here's a short gameplay.](https://www.youtube.com/watch?v=n4fnTExbxMs&feature=youtu.be)
 
 It was designed and built by a team of three: Charlie Ringer, Valerio Bonametti, and myself.
+
+---
+---
+*So what now? Maybe check out [what I'm doing now](https://cristinadobre.github.io/now.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
