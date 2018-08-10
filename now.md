@@ -37,4 +37,4 @@ This page is inspired by [Derek Sivers](https://sivers.org/).  If you wonder why
 
 ---
 ---
-*So what now? Maybe check out [my projects](https://cristinadobre.github.io/now.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
+*So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
