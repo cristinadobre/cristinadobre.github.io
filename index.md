@@ -6,5 +6,4 @@ I  am founded by [EPSRC](https://epsrc.ukri.org/) through [IGGI CDT](http://www.
 
 I'm investigating autonomous agents (or virtual humans) in social settings in terms of verbal and non-verbal interactions with users.  I'm interested in the underlying mechanics of social interaction that helps developing an emphatic and engaging virtual human. I have a theoretical background in Computer Science, completing with distinction an undergraduate degree in 2017. My thesis explored automatic detection of duplicate questions in community-based question answering platforms by learning semantic representation of queries.
 
-Here are some of [my current and past projects](./projects.html), here's [what I'm doing now](./now.html) and here's [my resume](./cv.html).
- 
+Here are some of [my current and past projects](./projects.html), here's [what I'm doing now](./now.html).
