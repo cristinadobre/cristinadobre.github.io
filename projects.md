@@ -16,11 +16,11 @@ Jan 2018
 
 ![alt text](https://github.com/cristinadobre/cristinadobre.github.io/blob/master/assets/img/qtlabs.PNG "QT-Labs")
 
-This is a VR game created in Unity3D over a weekend during the 2018 Global Game Jam (Queen Mary UoL site). The team had six members: one sound effect & music member, two 3D and 2D artists who created and designed the game assets and three developers. I was one of the three developers, having the role of implementing the game logic and testing the game. Here's our [porject overview on GGJ website.](https://globalgamejam.org/2018/games/qt-labs) and here's a [short gameplay](https://vimeo.com/253292962)
+This is a VR game created in Unity3D over a weekend during the 2018 Global Game Jam (Queen Mary UoL site). The team had six members: one sound effect & music member, two 3D and 2D artists who created and designed the game assets and three developers. I was one of the three developers, having the role of implementing the game logic and testing the game. Here's our [porject overview on GGJ website](https://globalgamejam.org/2018/games/qt-labs) and here's a [short gameplay.](https://vimeo.com/253292962)
 
 ---
 
-## StarWing Genetica(!)
+## StarWing Genetica!
 Nov 2017 
 
 ![StarwingGenetica](/assets/img/starwinggenetica.PNG)
