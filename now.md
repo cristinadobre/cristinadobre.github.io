@@ -9,6 +9,7 @@ I'm reading and digesting the theory of social interactions during communication
 ## Events and other cool stuff
 
 I'm the posters&demonstration chair for our annual [conference on Intelligence Games and Game Intelligence](http://2018.iggi.org.uk/) that will take place on the 12-13 September 2018 @ [Queen Mary University of London](https://www.qmul.ac.uk/). If you're interested get a [free ticket](https://www.eventbrite.co.uk/e/iggi-conference-2018-tickets-44359564652)! 
+<br>
 
 On the same note, I'm running a workshop with [Carlos González Díaz](https://twitter.com/@carlotes247) on September 13th at the IGGI Conference. The workshop itself it's called _Interactive Machine Learning for VR Game Controls_: we will be looking at how machine learning can be used with motion controls to create complex and but more natural virtual reality controls for games! You should *definitely* [book your place](https://www.eventbrite.com/e/iggi-conference-workshop-interactive-machine-learning-for-vr-game-controls-tickets-47350390292?aff=erellivmlt) while there are still some available!
 
