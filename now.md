@@ -10,8 +10,6 @@ I'm reading and digesting the theory of social interactions during communication
 
 I'm the posters&demonstration chair for our annual [conference on Intelligence Games and Game Intelligence](http://2018.iggi.org.uk/) that will take place on the 12-13 September 2018 @ [Queen Mary University of London](https://www.qmul.ac.uk/). If you're interested get a [free ticket](https://www.eventbrite.co.uk/e/iggi-conference-2018-tickets-44359564652)!
 
-I'm going to [MIT Media Lab Signal & Noise Workshop](https://www.media.mit.edu/events/mlberlin-signalandnoise/) in Berlin to be part of the "VR/AR-based learning experiences" track. See our progress on tweeter [#MLBerlin](https://twitter.com/hashtag/mlberlin) !
-
 ## Books
 
 * [Experience on demand](https://www.amazon.co.uk/Experience-Demand-Virtual-Reality-Works/dp/0393253694) by Jeremy Bailenson
@@ -34,6 +32,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  If you wonder why do I have this section?  [Check this out](https://nownownow.com/about)! 
 
-*This was last updated on 10/08/2018*
+*This was last updated on 30/08/2018*
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
