@@ -1,10 +1,10 @@
-# **What is she doing now?**
+# **what is she doing now?**
 <br><br>
 ## Work&Studies
 
 Currently I'm undertaking exploratory research on dyadic conversation with a slight focus on low-level verbal and non-verbal cues that influence the overall interaction between people.
 
-I'm reading and digesting the theory of social interactions during communication, covering the work of Starkey Duncan, Adam Kendon, Simon Garrod, Martin J. Pickering, Herbert Herb Clark
+I'm reading and digesting the theory of social interactions during communication, covering the work of Starkey Duncan, Adam Kendon, Simon Garrod, Martin J. Pickering, Herbert Herb Clark - wish me luck!
 
 ## Events and other cool stuff
 
