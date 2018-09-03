@@ -1,4 +1,4 @@
-# Selection of Projects
+# selection of projects
 <br><br>
 ## VR Escape Room/Puzzle-like experience
 May 2018
