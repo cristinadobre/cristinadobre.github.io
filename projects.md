@@ -3,11 +3,11 @@
 ## W|E
 August 2018
 
-![W|E project: Trabi](/assets/img/wetrabi.png)
+![W\|E project: Trabi](/assets/img/wetrabi.png)
 
 In August 2018 I took part in this amazing one-week [Signal & Noise workshop](https://www.media.mit.edu/events/mlberlin-signalandnoise/) organised by the [MIT Media Lab](https://www.media.mit.edu/) in Berlin. The track I was part of was  *VR/AR-based learning experience* led by [Scott Greenwald](https://www.media.mit.edu/people/swgreen/projects/). 
 
-We created, indeed, a learning experience about the Berlin Wall based on first-hand escape stories. Media Lab created this [video to showcase the behind-the-scenes process](https://youtu.be/C16gaWamXpg) of our project. One week was enough to prototype this, but we want to put together a final product, therefore this is an on-going project now- _how exciting_! Find out more about the project and the (great!) people working on it on [W|E website](http://we-vr.berlin/) and follow us [on Twitter](https://twitter.com/WEVR_Berlin) to see what we are up to! 
+We created, indeed, a learning experience about the Berlin Wall based on first-hand escape stories. Media Lab created this [video to showcase the behind-the-scenes process](https://youtu.be/C16gaWamXpg) of our project. One week was enough to prototype this, but we want to put together a final product, therefore this is an on-going project now- _how exciting_! Find out more about the project and the (great!) people working on it on [W\|E website](http://we-vr.berlin/) and follow us [on Twitter](https://twitter.com/WEVR_Berlin) to see what we are up to! 
 
 ## VR Escape Room/Puzzle-like experience
 May 2018
