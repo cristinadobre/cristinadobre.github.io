@@ -5,6 +5,7 @@
 I'm undertaking exploratory research on dyadic conversation with a slight focus on low-level verbal and non-verbal cues that influence the overall interaction between people. Currently, I'm looking at gaze behaviour and conversational turns.
 
 I've started working on some facial mo-cap and animation which is both fun and challenging since I'm not coming from that background. I've also found my Halloween costume!
+![spooky me](/assets/img/memarkers.PNG)
 
 ## Events 
 #### VSI 2018
@@ -19,8 +20,10 @@ If it sounds interesting to you, have a look a the previous VSI workshops: [2017
 * [Experience on demand](https://www.amazon.co.uk/Experience-Demand-Virtual-Reality-Works/dp/0393253694) by Jeremy Bailenson
 * [Thinking fast and slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0606275649) by  Daniel Kahneman
 
+
 ## Podcasts
-_I've started binge listening to these, but unfortunately, they are on pause until I untangle myself from other tasks and projects :(_  
+
+I've started binge listening to these, but unfortunately, they are on pause until I untangle myself from other tasks and projects :( 
 * [Mindscape](https://www.preposterousuniverse.com/podcast/2018/07/02/welcome-to-the-mindscape-podcast/)
 * [Invisibilia](https://www.npr.org/invisibilia/)
 * [Voices of VR](http://voicesofvr.com/)
