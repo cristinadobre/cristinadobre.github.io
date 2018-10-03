@@ -5,7 +5,9 @@
 I'm undertaking exploratory research on dyadic conversation with a slight focus on low-level verbal and non-verbal cues that influence the overall interaction between people. Currently, I'm looking at gaze behaviour and conversational turns.
 
 I've started working on some facial mo-cap and animation which is both fun and challenging since I'm not coming from that background. I've also got my Halloween look ready!
-![spooky me](/assets/img/memarkers.PNG)
+
+<img src="/assets/img/memarkers.PNG" alt="spooky me" width="350"/>
+
 
 ## Events 
 #### VSI 2018
