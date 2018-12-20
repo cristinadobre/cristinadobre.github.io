@@ -11,9 +11,7 @@ I've started working on some facial mo-cap and animation which is both fun and c
 
 ## Events 
 #### VSI 2018
-Along with Patrick Falk, I'm helping to put together the [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/vsi2018/home) that is primarily organised by [Prof. Antonia Hamilton](https://www.ucl.ac.uk/icn/research/research-groups/social-neuroscience), [Dr. Marco Gillies](https://www.doc.gold.ac.uk/~mas02mg/MarcoGillies/) and [Dr. Silvia Pan](https://sites.google.com/site/panxueni/). It will take place on 17-18 Decembre 2018 at [Goldsmiths UoL](https://www.gold.ac.uk). There are interesting [keynote speakers](https://sites.google.com/view/vsi2018/confirmed-speakers) lined up, which just happen to be all female: [Prof. Justine Cassell](http://www.justinecassell.com/), [Dr. Agnieszka Wykowska](https://www.iit.it/people/agnieszka-wykowska), [Dr. Rachel McDonnell](https://www.scss.tcd.ie/Rachel.McDonnell/) and [Dr. Mariska Kret](http://www.mariskakret.com/). 
-The full program is now up, along with a list of posters.
-If it sounds interesting to you, have a look a the previous VSI workshops: [2017](https://sites.google.com/view/vsi2017), [2016](https://sites.google.com/site/virtualsocialworkshop2016/), [2014](https://sites.google.com/site/virtualsocialworkshop/) to get a glimpse of how it's going to be like.
+The [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/vsi2018/home) took place on 17-18 Decembre 2018 at [Goldsmiths UoL](https://www.gold.ac.uk). It was such an interesting event across both days, featuring [all female keynote speakers](https://sites.google.com/view/vsi2018/confirmed-speakers), a range of inspiring talks and a buzzing [poster session](https://docs.google.com/document/d/16YIk6VZi1BpC2AbecTVtmLEQjfDu4H-zTWRFfr1OLyU/edit#heading=h.a11rhbjrnptk). If you joined the wokshop and want to stay in touch (of if you want to hear updates about it and other related news) join our [VSI Google Group](https://groups.google.com/forum/embed/?place=forum/virtual-interaction)!
 
 
 ## Books
@@ -41,6 +39,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  If you wonder why do I have this section?  [Check this out](https://nownownow.com/about)! 
 
-*This was last updated on 16/12/2018*
+*This was last updated on 20/12/2018*
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
