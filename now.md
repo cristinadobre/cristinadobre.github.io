@@ -10,8 +10,11 @@ I've started working on some facial mo-cap and animation which is both fun and c
 
 
 ## Events 
-#### VSI 2018
-The [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/vsi2018/home) took place on 17-18 Decembre 2018 at [Goldsmiths UoL](https://www.gold.ac.uk). It was such an interesting event across both days, featuring [all female keynote speakers](https://sites.google.com/view/vsi2018/confirmed-speakers), a range of inspiring talks and a buzzing [poster session](https://docs.google.com/document/d/16YIk6VZi1BpC2AbecTVtmLEQjfDu4H-zTWRFfr1OLyU/edit#heading=h.a11rhbjrnptk). If you joined the workshop and want to stay in touch (or if you want to hear updates about it + other related news) join our [VSI Google Group](https://groups.google.com/forum/embed/?place=forum/virtual-interaction)! Oh, and stay tuned for **VSI2020**!!
+
+#### Global Game Jam 2019
+I'm attending [GGJ](https://globalgamejam.org/) this year at Goldsmiths UoL, along with the whole [IGGI crew](http://iggi.org.uk/students/)! Can't wait to see everyone again and have some fun while making some games. 
+It's organised by [Hacksmiths](https://goldsmiths.tech/) with the following featured speakers: Gorm Lai (GGJ Founder), Liz Mercuri (Unity), Alan Zucconi (Goldsmiths, UoL), and Marina Díez (Terebi Magazine, Be My Human). If it sounds interesting to you, feel free to come along- [the registration](https://www.eventbrite.co.uk/e/global-game-jam-2019-at-goldsmiths-tickets-54704775456) is, of course, *free*! :)
+See you there!
 
 
 ## Books
@@ -22,10 +25,11 @@ The [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/v
 
 ## Podcasts
 
-I've started binge listening to these, but unfortunately, they are on pause until I untangle myself from other tasks and projects :( 
-* [Mindscape](https://www.preposterousuniverse.com/podcast/2018/07/02/welcome-to-the-mindscape-podcast/)
+I'm currently binge listening to these:
+* [The joe rogan experience](http://podcasts.joerogan.net/)
 * [Invisibilia](https://www.npr.org/invisibilia/)
-* [Voices of VR](http://voicesofvr.com/)
+* [A History of Delusions](https://www.bbc.co.uk/programmes/m0001d95)
+
 
 <br>
 
