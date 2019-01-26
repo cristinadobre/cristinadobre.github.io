@@ -6,7 +6,7 @@ December 2018
 
 The [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/vsi2018/home) took place on 17-18 Decembre 2018 at Goldsmiths UoL. I'm glad I had the chance to attend and help organise this event. 
 
-[Marco Gilles](http://www.doc.gold.ac.uk/~mas02mg/MarcoGillies/) wrote a nice overview of the event- have a look at his [VSI18 blogpost](https://medium.com/virtual-reality-virtual-people/virtual-social-interaction-conference-8972dcd9211c). It was indeed, such an interesting workshop across both days, featuring all female keynote speakers, a range of inspiring talks and a buzzing poster session. I've also presented my work-in-progress project in a [**poster format**](https://github.com/cristinadobre/cristinadobre.github.io/blob/master/assets/img/Explorative%20overview%20of%20mutual%20gaze%20in%20social%20settings%20-%20PosterVSI18.pdf). Interested and want to chat more about it?- drop me a line (or dm me)!  
+[Marco Gilles](http://www.doc.gold.ac.uk/~mas02mg/MarcoGillies/) wrote a nice overview of the event- have a look at his [VSI18 blogpost](https://medium.com/virtual-reality-virtual-people/virtual-social-interaction-conference-8972dcd9211c). It was indeed, such an interesting workshop across both days, featuring all female keynote speakers, a range of inspiring talks and a buzzing poster session.
 
 If you joined the workshop and want to stay in touch (or if you want to hear updates about it + other related news) join our [VSI Google Group](https://groups.google.com/forum/embed/?place=forum/virtual-interaction)! 
 
