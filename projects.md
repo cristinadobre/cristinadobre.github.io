@@ -2,7 +2,7 @@
 <br><br>
 
 ### Teaching 3D Virtual Environments and Animation
-Spring Term 2019
+*Spring Term 2019*
 
 This spring term I was an associate lecturer for the VR module in Goldsmiths. Along with [Leshao Zhang](https://twitter.com/zhangleshao?lang=en), I took care of the labs, while [Sylvia Pan](https://twitter.com/panxueni) was running the lectures. I was teaching mostly basics of Unity3D for VR applications and helping students with VR projects (just imagine lots of brainstorming, troubleshooting, code debugging and testing cool(!!) VR games and applications). They came up with really cool projects, there will be a blogpost about this soon! For now have a short list of some of them: Zombie Game, Furniture assembly, Bee Simulator, Stress-relieve smashing game, Water Meditation and Immersive 3D creation and visualisation tool. 
 
@@ -12,9 +12,11 @@ I hope the students benefited a lot from this module, it was very interesting fo
 
 The 3D Virtual Environments and Animation module will run again next year- I look forward to being part of this again. There's also a brand new [MA/MSc Virtual and Augmented Reality](https://www.gold.ac.uk/pg/ma-msc-virtual-augmented-reality/) that starts next September as well, if it sounds like your thing! 
 
+---
+<br>
 
 ### Virtual Social Interaction Workshop 2018
-December 2018
+*December 2018*
 
 The [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/vsi2018/home) took place on 17-18 Decembre 2018 at Goldsmiths UoL. I'm glad I had the chance to attend and help organise this event. 
 
@@ -24,9 +26,11 @@ If you joined the workshop and want to stay in touch (or if you want to hear upd
 
 Oh, and stay tuned for **VSI2020**!!
 
+---
+<br>
 
 ## W|E
-August 2018
+*August 2018*
 
 ![W\|E project: Trabi](/assets/img/wetrabi.png)
 
@@ -34,9 +38,11 @@ In August 2018 I took part in this amazing one-week [Signal & Noise workshop](ht
 
 We created, indeed, a learning experience about the Berlin Wall based on first-hand escape stories. Media Lab created this [video to showcase the behind-the-scenes process](https://youtu.be/C16gaWamXpg) of our project and Die Welt wrote [this article](https://www.welt.de/kmpkt/article181321644/MIT-Projekt-Wie-du-unter-der-Berliner-Mauer-in-den-Westen-fluechten-kannst.html) about our work! One week was enough to prototype this, but we want to put together a final product, therefore this is an on-going project now- _how exciting_! Find out more about the project and the (great!) people working on it on [W\|E website](http://we-vr.berlin/) and follow us [on Twitter](https://twitter.com/WEVR_Berlin) to see what we are up to! 
 
+---
+<br>
 
 ## VR Escape Room/Puzzle-like experience
-May 2018
+*May 2018*
 
 ![VR Escape Room](/assets/img/vrthingy.PNG)
 
@@ -48,7 +54,7 @@ This prototype was created by myself in Unity 3D using Oculus SDK and VRTK for t
 <br>
 
 ## Global Game Jam Game: QT-Labs
-Jan 2018 
+*Jan 2018* 
 
 ![QT-Labs](/assets/img/qtlabs.PNG)
 
@@ -58,7 +64,7 @@ This is a VR game created in Unity3D over a weekend during the 2018 Global Game 
 <br>
 
 ## StarWing Genetica
-Nov 2017 
+*Nov 2017* 
 
 ![StarwingGenetica](/assets/img/starwinggenetica.PNG)
 
