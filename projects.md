@@ -1,6 +1,18 @@
 # selection of projects
 <br><br>
 
+### Teaching 3D Virtual Environments and Animation
+Spring Term 2019
+
+This spring term I was an associate lecturer for the VR module in Goldsmiths. Along with [Leshao Zhang](https://twitter.com/zhangleshao?lang=en), I took care of the labs, while [Sylvia Pan](https://twitter.com/panxueni) was running the lectures. I was teaching mostly basics of Unity3D for VR applications and helping students with VR projects (just imagine lots of brainstorming, troubleshooting, code debugging and testing cool(!!) VR games and applications). They came up with really cool projects, there will be a blogpost about this soon! For now have a short list of some of them: Zombie Game, Furniture assembly, Bee Simulator, Stress-relieve smashing game, Water Meditation and Immersive 3D creation and visualisation tool. 
+
+![ProjectExample-BeeSimulator](/assets/img/bee-simulator.mp4)
+
+I hope the students benefited a lot from this module, it was very interesting for me too. It was also my first teaching experience in a university environment- nothing like teaching kids creative coding in afterschool clubs!! A few weeks ago it had a guest speaker too -[Francesco Giordana](https://twitter.com/fragiordana?lang=en) from [Moving Picture Company](https://www.mpcfilm.com/). It was incredible to see that they are using VR for film making; He described something called *Virtual Production* which lets previewing Computer-Generated (CG) elements, in real-time on a film set. It also enables the filmmakers to scout the environment, capture, add animations iterate through and shoot with virtual cameras - everything **within** the virtual environment! They had projects where all of this was done remotely too- with people from around the world.
+
+The 3D Virtual Environments and Animation module will run again next year- I look forward to being part of this again. There's also a brand new [MA/MSc Virtual and Augmented Reality](https://www.gold.ac.uk/pg/ma-msc-virtual-augmented-reality/) that starts next September as well, if it sounds like your thing! 
+
+
 ### Virtual Social Interaction Workshop 2018
 December 2018
 
