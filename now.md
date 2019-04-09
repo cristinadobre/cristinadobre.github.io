@@ -21,12 +21,19 @@ I'm currently binge listening to these:
 * [Invisibilia](https://www.npr.org/invisibilia/)
 
 
+## Events 
+*that I'm planning on attending*
+
+* April 24th [Augmenting Reality - April Meetup](https://www.meetup.com/Augmenting-Reality/) 
+* April 26th-28th [Skin-Awareness Interactive Dance Performance](http://uglyduck.org.uk/portfolio_page/skin/) 
+* May 15th-16th [Deconstructing The Dream](https://www.thebloomsbury.com/event/run/18138)  part of UCL's [Performance Lab](https://www.ucl.ac.uk/culture/whats-on/performance-lab) festival
+ 
 <br>
 
 ---
 
 ### Any thoughts, suggestions? Contact me!
-send me your message at *c* dot *dobre* at *gold* dot *ac* dot *uk* 
+send me your message at ***c*** dot ***dobre*** at ***gold*** dot ***ac*** dot ***uk*** 
 and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 ---
