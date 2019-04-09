@@ -1,4 +1,4 @@
-# **what is she doing now?**
+# **this is what I'm doing right now**
 <br><br>
 ## Work&Studies
 
