@@ -24,8 +24,9 @@ I'm currently binge listening to these:
 ## Events 
 *that I'm planning on attending*
 
-* April 24th [Augmenting Reality - April Meetup](https://www.meetup.com/Augmenting-Reality/) 
+* April 24th [Augmenting Reality - April Meetup](https://www.meetup.com/Augmenting-Reality/events/260143448/) 
 * April 26th-28th [Skin-Awareness Interactive Dance Performance](http://uglyduck.org.uk/portfolio_page/skin/) 
+* April 29th [GDG Cloud London - April Meetup](https://www.meetup.com/gdgcloud/events/259087158/) Includes General Talks, Tensorflow, Computer Vision, ML pipeline, Cloud native
 * May 15th-16th [Deconstructing The Dream](https://www.thebloomsbury.com/event/run/18138)  part of UCL's [Performance Lab](https://www.ucl.ac.uk/culture/whats-on/performance-lab) festival
  
 <br>
