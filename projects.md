@@ -4,7 +4,7 @@
 ### Teaching 3D Virtual Environments and Animation
 *Spring Term 2019*
 
-This spring term I was an associate lecturer for the VR module in Goldsmiths. Along with [Leshao Zhang](https://twitter.com/zhangleshao?lang=en), I took care of the labs, while [Sylvia Pan](https://twitter.com/panxueni) was running the lectures. I was teaching mostly basics of Unity3D for VR applications and helping students with VR projects (just imagine lots of brainstorming, troubleshooting, code debugging and testing cool(!!) VR games and applications). They came up with really cool projects, there will be a blogpost about this soon! For now have a short list of some of them: Zombie Game, Furniture assembly, Bee Simulator, Stress-relieve smashing game, Water Meditation and Immersive 3D creation and visualisation tool. 
+This spring term I was an associate lecturer for the VR module in Goldsmiths. Along with [Leshao Zhang](https://twitter.com/zhangleshao?lang=en), I took care of the labs, while [Sylvia Pan](https://twitter.com/panxueni) was running the lectures. I was teaching mostly basics of Unity3D for VR applications and helping students with VR projects (just imagine lots of brainstorming, troubleshooting, code debugging and testing cool(!!) VR games and applications). They came up with really cool projects, there will be a blogpost about this soon! For now have a short list of some of them: Zombie Game, Furniture assembly, Bee Simulator(short video below), Stress-relieve smashing game, Water Meditation and Immersive 3D creation and visualisation tool. 
 
  <p><center><video src="/assets/img/bee-simulator.mp4" width="260" height="480" controls preload></video></center></p>
 
