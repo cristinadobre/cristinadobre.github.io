@@ -4,7 +4,7 @@
 
 Currently, I'm using machine learning models to generate and explore gaze and other appropriate nonverbal behaviours, for virtual humans suitable for immersive VR. Using multimodal datasets (think of, video eye data, upper-body motion-capture, audio and video recordings) I’m working on building nonverbal behaviour models that can drive virtual humans' gaze behaviour based on the user’s actions in VR.
 
-I'm also looking for appropriate placements for my research. If you have any suggestions, please get in touch! :)
+*I'm also looking for appropriate placements for my research. If you have any suggestions, please get in touch! :)*
 
 As a side project, I'm working on markerless facial mocap and animation of very young children. This project is based in [the Dept of Psychiatry from Oxford University](https://www.psych.ox.ac.uk/), and aims to provide young adults resources to develop parenting skills.
 
