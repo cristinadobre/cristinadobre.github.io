@@ -17,6 +17,7 @@ As a side project, I'm working on markerless facial mocap and animation of very 
 ## Podcasts
 
 I'm currently binge listening to these:
+* [Not Overthinking](https://notoverthinking.transistor.fm/)
 * [The joe rogan experience](http://podcasts.joerogan.net/)
 * [Invisibilia](https://www.npr.org/invisibilia/)
 
@@ -41,6 +42,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)! 
 
-*This was last updated on 09/04/2019*
+*This was last updated on 15/04/2019*
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
