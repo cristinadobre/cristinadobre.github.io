@@ -4,8 +4,6 @@
 
 Currently, I'm using machine learning models to generate and explore gaze and other appropriate nonverbal behaviours, for virtual humans suitable for immersive VR. Using multimodal datasets (think of, video eye data, upper-body motion-capture, audio and video recordings) I’m working on building nonverbal behaviour models that can drive virtual humans' gaze behaviour based on the user’s actions in VR.
 
-*I'm also looking for appropriate placements for my research. If you have any suggestions, please get in touch! :)*
-
 As a side project, I'm working on markerless facial mocap and animation of very young children. This project is based in [the Dept of Psychiatry from Oxford University](https://www.psych.ox.ac.uk/), and aims to provide young adults resources to develop parenting skills.
 
 
@@ -25,11 +23,9 @@ I'm currently binge listening to these:
 ## Events 
 *that I'm planning on attending*
 
-* April 24th [Augmenting Reality - April Meetup](https://www.meetup.com/Augmenting-Reality/events/260143448/) 
-* April 26th-28th [Skin-Awareness Interactive Dance Performance](http://uglyduck.org.uk/portfolio_page/skin/) 
-* April 29th [GDG Cloud London - April Meetup](https://www.meetup.com/gdgcloud/events/259087158/) Includes General Talks, Tensorflow, Computer Vision, ML pipeline, Cloud native
 * May 15th-16th [Deconstructing The Dream](https://www.thebloomsbury.com/event/run/18138)  part of UCL's [Performance Lab](https://www.ucl.ac.uk/culture/whats-on/performance-lab) festival
- 
+* May 28th [Augmenting Reality - May Meetup](https://www.meetup.com/en-AU/Augmenting-Reality/events/260908633/)
+
 <br>
 
 ---
@@ -42,6 +38,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)! 
 
-*This was last updated on 15/04/2019*
+*This was last updated on 15/05/2019*
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
