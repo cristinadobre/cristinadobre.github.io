@@ -6,7 +6,7 @@ Currently I'm on an internship at [Dream Reality Interactive (DRi)](https://www.
 
 ## Studies
 
-Apart from the work I'm doing at DRi, I'm preparing a Doctoral Consortium presentation for [ACII](http://acii-conf.org/2019/) and an Workshop for [IGGI conferene](http://www.2019.iggi.org.uk/). Stay tuned for mode details soon! :)
+Apart from the work I'm doing at DRi, I'm preparing a Workshop for [IGGI conference](http://www.2019.iggi.org.uk/) on Imitation Learning for games. You can now [register](https://www.eventbrite.co.uk/e/imitation-learning-for-unity-games-tickets-69724613195) and get a (free) ticket. The annual Intelligent Games and Games Intelligence conference is taking place in York this year on the 11th-12th of September. There are 4 Keynotes and 60+ PhD students showing their work. It's also free to attend and here is where you can get a [ticket](https://www.eventbrite.co.uk/e/iggi-conference-2019-tickets-55349175875).   
 
 ## Books
 * [Why we sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067) by Matthew Walker 
@@ -22,7 +22,6 @@ I'm currently binge listening to these:
 
 ## Events 
 
-* August 20th [IEEE Conference on Games (COG)](http://ieee-cog.org/)
 * September 3rd-6th [International Conference on Affective Computing & Intelligent Interaction (ACII)](http://acii-conf.org/2019/)
 * September 11th-12th [IGGI Conference](http://www.2019.iggi.org.uk/)
 
@@ -38,6 +37,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)! 
 
-*This was last updated on 30/07/2019*
+*This was last updated on 03/09/2019*
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
