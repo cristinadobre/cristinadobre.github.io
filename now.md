@@ -37,6 +37,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)! 
 
-*This was last updated on 03/09/2019*
+*This was last updated on 04/09/2019*
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
