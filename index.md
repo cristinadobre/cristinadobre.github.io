@@ -1,7 +1,7 @@
 # hi!
 <br><br>
 ## Here's me in ~10 seconds
-I'm a PhD candidate at [Goldsmiths UoL](https://www.gold.ac.uk/), (part of [IGGI CDT](http://www.iggi.org.uk/)) exploring human perception and interaction with virtual humans in immersive [6DoF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) Virtual Environments. 
+I'm a PhD candidate at [Goldsmiths UoL](https://www.gold.ac.uk/), (part of [IGGI CDT](http://www.iggi.org.uk/)) exploring human perception and interaction with virtual humans in immersive [6DoF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) Virtual Environments. Currently, I'm doing an internship at DRi where we are working on creating a framework for NPCs to respond to players’ natural social signals in a Peaky Blinders VR Game. 
 
 ## If you're not bored already, here's me again in a few more seconds
 I  am funded by [EPSRC](https://epsrc.ukri.org/) through [IGGI CDT](http://www.iggi.org.uk/) to continue my studies as a PhD student. IGGI stands for Intelligent Games and Game Intelligence and it is a Centre for Doctoral Training with students across  4 Universities: York University, Goldsmiths UoL, Queen Mary UoL and Essex University.
