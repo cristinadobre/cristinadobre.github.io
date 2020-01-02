@@ -1,9 +1,10 @@
-# selection of projects and other activities
+# selection of projects and some other activities
 <br><br>
 
 ### Speaker at the *AI and Character Driven Immersive Experiences Workshop*
 *December 2019*
-![Dec19 Workshop](/assets/img/dec19workshoptalk.jpg)[Dec19 Workshop](/assets/img/dec19workshopdemo.jpg)
+
+![Dec19 Workshop](/assets/img/dec19workshopcombined.png)
 
 ---
 <br>
@@ -11,6 +12,7 @@
 
 ### Poster and Doctoral Consortium at the *8th International Conference on Affective Computing and Intelligent Interaction*
 *September 2019*
+
 ![ACII Talk](/assets/img/acii_talk.jpg)
 
 ---
@@ -18,6 +20,7 @@
 
 ### Workshop Organiser at *Intelligent Games & Game Intelligence Conference*
 *September 2019*
+
 ![IGGI Workshop talk](/assets/img/iggi19workshop.jpg)
 
 ---
@@ -26,6 +29,8 @@
 
 ### Industrial Placement
 *Summer-Autumn 2019*
+
+During my placement I Worked on creating an AI framework for narrative games in Virtual Reality part of an Innovate UK project. The work was based on an imitation learning concept using the Unity ML-Agents platform. The AI framework we built detects a human-defined concept within a social interaction between the user and a non-player character. The work involved collaborating with another games studio and an academic institution to conceptualise the AI framework, to plan the study design, build the environment for data collection, train & evaluate the model and to part-integrate the framework in the final game product.
 
 --
 <br>
