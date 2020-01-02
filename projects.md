@@ -4,7 +4,7 @@
 ### Speaker at the *AI and Character Driven Immersive Experiences Workshop*
 *December 2019*
 
-![Dec19 Workshop](/assets/img/dec19workshopcombined.png)
+![Dec19 Workshop](/assets/img/dec19workshopcombined.PNG)
 
 ---
 <br>
