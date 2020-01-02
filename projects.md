@@ -1,5 +1,34 @@
-# selection of projects
+# selection of projects and other activities
 <br><br>
+
+### Speaker at the *AI and Character Driven Immersive Experiences Workshop*
+*December 2019*
+![Dec19 Workshop](/assets/img/dec19workshoptalk.jpg)[Dec19 Workshop](/assets/img/dec19workshopdemo.jpg)
+
+---
+<br>
+
+
+### Poster and Doctoral Consortium at the *8th International Conference on Affective Computing and Intelligent Interaction*
+*September 2019*
+![ACII Talk](/assets/img/acii_talk.jpg)
+
+---
+<br>
+
+### Workshop Organiser at *Intelligent Games & Game Intelligence Conference*
+*September 2019*
+![IGGI Workshop talk](/assets/img/iggi19workshop.jpg)
+
+---
+<br>
+
+
+### Industrial Placement
+*Summer-Autumn 2019*
+
+--
+<br>
 
 ### Teaching 3D Virtual Environments and Animation
 *Spring Term 2019*
@@ -28,6 +57,7 @@ Oh, and stay tuned for **VSI2020**!!
 
 ---
 <br>
+
 
 ## W|E
 *August 2018*
