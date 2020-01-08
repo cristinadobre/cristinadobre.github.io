@@ -32,11 +32,8 @@ send me your message at ***c*** dot ***dobre*** at ***gold*** dot ***ac*** dot *
 and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
+<br>
 
-
----
-
-<sup>*This was last updated on 08/01/2020*<sup>
-
+<sup>*This was last updated on 08/01/2020*<sup>  
 <sup>This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
 
