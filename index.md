@@ -1,6 +1,6 @@
 # hi!
 <br><br>
-### **Here's me in ~10 seconds**
+### Here's me in ~10 seconds
 I'm a PhD candidate at [Goldsmiths UoL](https://www.gold.ac.uk/), (part of [IGGI CDT](http://www.iggi.org.uk/)) exploring human perception and interaction with virtual humans in immersive [6DoF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) Virtual Environments. Currently, I work on building nonverbal behaviour models from multimodal datasets to detect various social signals or to drive autonomous agents in virtual reality games.
 
 ### If you're not bored already, here's me again in a few more seconds
