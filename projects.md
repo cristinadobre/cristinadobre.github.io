@@ -1,7 +1,7 @@
 # selection of projects and some other activities
 <br><br>
 
-### Speaker at the *AI and Character Driven Immersive Experiences Workshop*
+## Speaker at the *AI and Character Driven Immersive Experiences Workshop*
 *December 2019*
 
 ![Dec19 Workshop](/assets/img/dec19workshopcombined.PNG)
@@ -10,7 +10,7 @@
 <br>
 
 
-### Poster and Doctoral Consortium at the *8th International Conference on Affective Computing and Intelligent Interaction*
+## Poster and Doctoral Consortium at the *8th International Conference on Affective Computing and Intelligent Interaction*
 *September 2019*
 
 ![ACII Talk](/assets/img/acii_talk.jpg)
@@ -18,7 +18,7 @@
 ---
 <br>
 
-### Workshop Organiser at *Intelligent Games & Game Intelligence Conference*
+## Workshop Organiser at *Intelligent Games & Game Intelligence Conference*
 *September 2019*
 
 ![IGGI Workshop talk](/assets/img/iggi19workshop.jpg)
@@ -27,7 +27,7 @@
 <br>
 
 
-### Industrial Placement
+## Industrial Placement
 *Summer-Autumn 2019*
 
 During my placement I Worked on creating an AI framework for narrative games in Virtual Reality part of an Innovate UK project. The work was based on an imitation learning concept using the Unity ML-Agents platform. The AI framework we built detects a human-defined concept within a social interaction between the user and a non-player character. The work involved collaborating with another games studio and an academic institution to conceptualise the AI framework, to plan the study design, build the environment for data collection, train & evaluate the model and to part-integrate the framework in the final game product.
@@ -35,7 +35,7 @@ During my placement I Worked on creating an AI framework for narrative games in 
 --
 <br>
 
-### Teaching 3D Virtual Environments and Animation
+## Teaching 3D Virtual Environments and Animation
 *Spring Term 2019*
 
 This spring term I was an associate lecturer for the VR module in Goldsmiths. Along with [Leshao Zhang](https://twitter.com/zhangleshao?lang=en), I took care of the labs, while [Sylvia Pan](https://twitter.com/panxueni) was running the lectures. I was teaching mostly basics of Unity3D for VR applications and helping students with VR projects (just imagine lots of brainstorming, troubleshooting, code debugging and testing cool(!!) VR games and applications). They came up with really cool projects, there will be a blogpost about this soon! For now have a short list of some of them: Zombie Game, Furniture assembly, Bee Simulator(short video below), Stress-relieve smashing game, Water Meditation and Immersive 3D creation and visualisation tool. Marco Gillies wrote a more in-depth [blog post on Medium](https://medium.com/virtual-reality-virtual-people/vr-masters-projects-de45175e180c) about it.
@@ -49,7 +49,7 @@ The 3D Virtual Environments and Animation module will run again next year- I loo
 ---
 <br>
 
-### Virtual Social Interaction Workshop 2018
+## Virtual Social Interaction Workshop 2018
 *December 2018*
 
 The [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/vsi2018/home) took place on 17-18 Decembre 2018 at Goldsmiths UoL. I'm glad I had the chance to attend and help organise this event. 
