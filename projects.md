@@ -18,10 +18,14 @@
 ---
 <br>
 
-## Workshop Organiser at *Intelligent Games & Game Intelligence Conference*
+## Imitation Learning Workshop 
 *September 2019*
 
 ![IGGI Workshop talk](/assets/img/iggi19workshop.jpg)
+
+Along with [Carlos Gonzalez Diaz](https://carlotes247.github.io/), we organised a workshop for the annual *Intelligent Games & Game Intelligence ([IGGI](https://iggi.org.uk/)) Conference* in York, UK. We introduced the Unity3D ML-Agents platform, the algorithms that can be used within the framework with a focus on the imitation learning one: Behaviour Cloning. The attendees when through a tutorial to build a game by setting-up the ML-Agents framework, training it using Tensorflow and testing it back in the game engine. 
+
+If you're interested, you can have a look at the [slides presented](https://docs.google.com/presentation/d/1Q7S3RcUPYF3c8m5Y22ruEv24_OBPnffpIoDStV60VY4/edit?usp=sharing) and at the [github repo](https://github.com/carlotes247/IGGI19_Imitation_Learning_Workshop) used in the workshop.
 
 ---
 <br>
