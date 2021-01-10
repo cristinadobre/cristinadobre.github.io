@@ -27,10 +27,14 @@
 <br>
 
 
-## Industrial Placement
+## Doctoral Research Intern
 *Summer-Autumn 2019*
 
-During my placement I Worked on creating an AI framework for narrative games in Virtual Reality part of an Innovate UK project. The work was based on an imitation learning concept using the Unity ML-Agents platform. The AI framework we built detects a human-defined concept within a social interaction between the user and a non-player character. The work involved collaborating with another games studio and an academic institution to conceptualise the AI framework, to plan the study design, build the environment for data collection, train & evaluate the model and to part-integrate the framework in the final game product.
+<p><center><video src="/assets/img/DRI_working_VR.mp4" width="260" height="480" controls autoplay></video></center></p>
+
+Collaborating with two games studios ([Dream Reality Interactive](https://www.dreamrealityinteractive.com/) and [Maze Theory](https://www.maze-theory.com/)) and with the academic suport from Goldsmiths UoL, we created an immersive ML pipeline for Virtual Reality experiences, project funded by [Innovate UK](https://www.ukri.org/councils/innovate-uk/). The work was based on reinforcement learning an imitation learning concepts using the [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) platform. The ML pipeline we built detects a social attitude (such as sympathy, aggression or social engagement) during an interaction in VR between the player and a non-player character. Together we conceptualised the pipeline, planed the study design, built the environment for data collection, trained & evaluated the model and part-integrated the pipeline in the final game product. Overall, this work introduces an immersive ML pipeline for detecting social attitudes and demonstrates how creatives could use ML and VR to expand their ability to design more engaging experiences. Here, Goldsmiths wrote [a news article](https://www.gold.ac.uk/news/peaky-blinders-vr/) about it.
+
+![Internship at DRI](/assets/img/DRI_working_PC.jpg)
 
 --
 <br>
