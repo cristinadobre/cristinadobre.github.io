@@ -1,6 +1,38 @@
 # selection of projects and some other activities
 <br><br>
 
+
+
+## Workshop at IVA2020
+*October 2020*
+
+---
+
+## Internship at Microsoft Research with Jaron Lanier
+*June 2020*
+
+---
+
+## Award: Google Woman Techmakers Scholarship
+*April 2020*
+
+---
+
+## Talk at Immersive UK
+*April 2020*
+
+---
+
+## Award: Rabin Ezra Scholarship 
+*March 2020*
+
+---
+
+## Winner of VIVE Dev Jam
+*January 2020*
+
+---
+
 ## Speaker at the *AI and Character Driven Immersive Experiences Workshop*
 *December 2019*
 
@@ -14,8 +46,6 @@
 *September 2019*
 
 ![ACII Talk](/assets/img/acii_talk.jpg)
-
-
 
 ---
 <br>
