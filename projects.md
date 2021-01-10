@@ -30,7 +30,9 @@
 ## Doctoral Research Intern
 *Summer-Autumn 2019*
 
-<p><center><video src="/assets/img/DRI_working_VR.mp4" width="260" height="480" controls autoplay></video></center></p>
+<p><center><video controls autoplay>
+  <source src="/assets/img/DRI_working_VR.mp4" type="video/mp4">
+</video></center></p>
 
 Collaborating with two games studios ([Dream Reality Interactive](https://www.dreamrealityinteractive.com/) and [Maze Theory](https://www.maze-theory.com/)) and with the academic suport from Goldsmiths UoL, we created an immersive ML pipeline for Virtual Reality experiences, project funded by [Innovate UK](https://www.ukri.org/councils/innovate-uk/). The work was based on reinforcement learning an imitation learning concepts using the [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) platform. The ML pipeline we built detects a social attitude (such as sympathy, aggression or social engagement) during an interaction in VR between the player and a non-player character. Together we conceptualised the pipeline, planed the study design, built the environment for data collection, trained & evaluated the model and part-integrated the pipeline in the final game product. Overall, this work introduces an immersive ML pipeline for detecting social attitudes and demonstrates how creatives could use ML and VR to expand their ability to design more engaging experiences. Here, Goldsmiths wrote [a news article](https://www.gold.ac.uk/news/peaky-blinders-vr/) about it.
 
