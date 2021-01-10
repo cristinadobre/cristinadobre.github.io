@@ -1,4 +1,4 @@
-# selection of projects and some other activities
+# selection of projects, talks, awards
 <br><br>
 
 
