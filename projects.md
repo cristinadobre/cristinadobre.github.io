@@ -10,10 +10,12 @@
 <br>
 
 
-## Poster and Doctoral Consortium at the *8th International Conference on Affective Computing and Intelligent Interaction*
+## Poster and DC at ACII19
 *September 2019*
 
 ![ACII Talk](/assets/img/acii_talk.jpg)
+
+
 
 ---
 <br>
@@ -43,7 +45,7 @@ The work was based on reinforcement learning an imitation learning concepts usin
 Overall, this work introduces an immersive ML pipeline for detecting social attitudes and demonstrates how creatives could use ML and VR to expand their ability to design more engaging experiences. Here, Goldsmiths wrote [a news article](https://www.gold.ac.uk/news/peaky-blinders-vr/) about it.
 
 
---
+---
 <br>
 
 ## Teaching 3D Virtual Environments and Animation
@@ -60,7 +62,7 @@ The 3D Virtual Environments and Animation module will run again next year- I loo
 ---
 <br>
 
-## Virtual Social Interaction Workshop 2018
+## Virtual Social Interaction 
 *December 2018*
 
 The [4th Workshop on Virtual Social Interaction](https://sites.google.com/view/vsi2018/home) took place on 17-18 Decembre 2018 at Goldsmiths UoL. I'm glad I had the chance to attend and help organise this event. 
@@ -87,7 +89,7 @@ We created, indeed, a learning experience about the Berlin Wall based on first-h
 ---
 <br>
 
-## VR Escape Room/Puzzle-like experience
+## VR Escape Room experience
 *May 2018*
 
 ![VR Escape Room](/assets/img/vrthingy.PNG)
@@ -99,7 +101,7 @@ This prototype was created by myself in Unity 3D using Oculus SDK and VRTK for t
 ---
 <br>
 
-## Global Game Jam Game: QT-Labs
+## GGJ Game: QT-Labs
 *Jan 2018* 
 
 ![QT-Labs](/assets/img/qtlabs.PNG)
