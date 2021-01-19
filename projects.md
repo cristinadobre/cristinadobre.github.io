@@ -121,7 +121,10 @@ This spring term I was an associate lecturer for the VR module in Goldsmiths. Al
 
 <!-- ![bee-simulator](/assets/img/bee-simulator.gif) --!>
 <!--  <p><center><video src="/assets/img/bee-simulator.mp4" width="260" height="480" controls preload></video></center></p> -->
-<p><center><video src="/assets/img/bee-simulator.gif"></video></center></p>
+
+<p align="center">
+  <img src="/assets/img/bee-simulator.gif" />
+</p>
 
 
 I hope the students benefited a lot from this module, it was very interesting for me too. It was also my first teaching experience in a university environment- nothing like teaching kids creative coding in afterschool clubs!! A few weeks ago it had a guest speaker too -[Francesco Giordana](https://twitter.com/fragiordana?lang=en) from [Moving Picture Company](https://www.mpcfilm.com/). It was incredible to see that they are using VR for film making; He described something called *Virtual Production* which lets previewing Computer-Generated (CG) elements, in real-time on a film set. It also enables the filmmakers to scout the environment, capture, add animations iterate through and shoot with virtual cameras - everything **within** the virtual environment! They had projects where all of this was done remotely too- with people from around the world.
