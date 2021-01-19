@@ -47,6 +47,14 @@
 
 ![ACII Talk](/assets/img/acii_talk.jpg)
 
+I've been following the research presented at [ACII](http://acii-conf.org/2019/) (International Conference on
+Affective Computing & Intelligent Interaction) since the start of my research journey. I'm so happy to have the chance to present some of my preliminary work as a [doctoral consortium paper](https://ieeexplore.ieee.org/document/8925113) and poster. 
+
+I have to say, I was very nervous about presenting it, but after that, I had lots of fun attending the rest of the conference. I could see in person some of the researchers I follow a lot such as [Catherine Pelachaud](http://pages.isir.upmc.fr/~pelachaud/), [Stacy Marsella](http://stacymarsella.org/Stacy_Marsella_Homepage/Stacy_Marsella_Homepage.html), [Jonathan Gratch](https://people.ict.usc.edu/~gratch/), [Rosalind Picard](https://www.media.mit.edu/people/picard/publications/), [Daniel McDuff](http://alumni.media.mit.edu/~djmcduff/) and many others. 
+
+There were three key-note speakers Simon Baron-Cohen, Lisa Feldman Barrett and Thomas Ploetz. All three were very insightful, however, Lisa Feldman Barrett gave a very on-point presentation on the machines perceiving emotions. [The key-note recording](https://www.youtube.com/watch?v=gPPHgeJHRF8) is on Youtube and, do have a look if you're interested in this subject. After the conference, I read her book [*How Emotions are Made*](https://lisafeldmanbarrett.com/books/how-emotions-are-made/) which was a very very good and easy-to-follow book. 
+
+
 ---
 <br>
 
