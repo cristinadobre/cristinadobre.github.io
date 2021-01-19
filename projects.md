@@ -39,7 +39,7 @@ Together with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https:
 <p align="center">
   <img src="/assets/img/March20RabinEzra.png" />
 </p>
-<!-- ![RabinEzraScholarship](/assets/img/March20RabinEzra.png)--!>
+
 
 I was awarded the [Rabin Ezra Scholarship](http://rabinezrascholarship.org/) which supports junior researchers. The Trust awards scholarships each year and they usually have the deadline at the beginning of December. 
 
