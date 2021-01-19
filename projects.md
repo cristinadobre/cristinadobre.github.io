@@ -6,12 +6,22 @@
 ## Workshop at IVA2020
 *October 2020*
 
+
+The 20th International Conference on Intelligent Virtual Agents ([IVA](https://iva2020.psy.gla.ac.uk/)) was supposed to take place in Glasgow, but like all other conferences this year, it happened online. We presented there a workshop on [Immersive Interaction design for Intelligent Virtual Agents](https://iva2020.psy.gla.ac.uk/program/workshops/workshops/). It looked at how approaches to interaction design for body movement can be applied to interaction with IVAs, in particular to non-verbal communication with virtual agents. It was a hands-on workshop where [Nicola Plant](http://nicolaplant.co.uk/) and Clarice Hilton introduced a new interactive machine learning tool, [InteractML](http://interactml.com/). Those who attended used their own body movements to explore new ways of interacting with virtual agents and discovered InteractML that allowed for rapid implementation of these designs.
+
+The organisers of IVA chose [Gather.Town](https://gather.town/) platform to host the event. From my perspective, it went really well. I enjoyed being able to *move* so that I can talk to people and to make sure to be in the auditorium on time for the main talk sessions. They also had [Salons](https://iva2020.psy.gla.ac.uk/program/salons/) where you'd stay at the table and have a discussion driven by a senior member of the community. I enjoyed these the most and I think they brought a bit of that networking feeling of being at a conference.
+
+Here I also got to meet [Hannes Högni Vilhjálmsson](http://www.ru.is/faculty/hannes/) who's research is very interesting and diverse; Along with other organisers, he worked hard to make sure the conference went smoothly and also organised a VR afterparty with a Halloween theme. 
+
 ![IVAConference](/assets/img/Oct20IVAinVR.png) 
 
 ---
 
 ## Internship at Microsoft Research with Jaron Lanier
 *June 2020*
+
+
+I was very excited to be working as an intern with [Jaron Lanier](http://www.jaronlanier.com/) at the Office of the CTO at [Microsoft Research](https://www.microsoft.com/en-us/research/). Along with [M Eifler](http://www.blinkpopshift.com/) and others in the lab, we were supposed to work on a very interesting project that I probably can't say much about. Due to the COVID-19 pandemic, my internship had to be postponed to summer 2021. Unfortunately, later in the year, Microsoft Research decided to cancel the offered internships of those not residing in the US or Canada. For as much I would have enjoyed and learned during this internship, it couldn't happen at these challenging times. Hopefully, there will be a way to cross paths and work together with Jaron Lanier at some point in the future.
 
 ---
 
@@ -20,7 +30,7 @@
 
 ![GoogleWomanTechmakersScolarship](/assets/img/April20GoogleScholarship.PNG)
 
-I was so happy to find out that I was awarded the [Google Woman Techmakers](https://www.womentechmakers.com/) Scholarship. Unfortunately I the trip to the US was cancelled due to COVID-19 pandemic. There we would have met [all of the other scholars](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) and we would have had workshops and networking events. We had instead a very nicely organised online workshop where we met most of the scholars and we've got a very interesting talk from [Jade Raymond](https://en.wikipedia.org/wiki/Jade_Raymond), VP and Head of Stadia Games and Entertainment. 
+I was so happy to find out that I was awarded the [Google Woman Techmakers](https://www.womentechmakers.com/) Scholarship. Unfortunately, I the trip to the US was cancelled due to COVID-19 pandemic. There we would have met [all of the other scholars](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) and we would have had workshops and networking events. We had instead a very nicely organised online workshop where we met most of the scholars and we've got a very interesting talk from [Jade Raymond](https://en.wikipedia.org/wiki/Jade_Raymond), VP and Head of Stadia Games and Entertainment. 
 
 ---
 
