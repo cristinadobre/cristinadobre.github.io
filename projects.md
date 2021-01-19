@@ -36,7 +36,10 @@ Together with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https:
 ## Award: Rabin Ezra Scholarship 
 *March 2020*
 
-![RabinEzraScholarship](/assets/img/March20RabinEzra.png)
+<p align="center">
+  <img src="/assets/img/March20RabinEzra.png" />
+</p>
+<!-- ![RabinEzraScholarship](/assets/img/March20RabinEzra.png)--!>
 
 I was awarded the [Rabin Ezra Scholarship](http://rabinezrascholarship.org/) which supports junior researchers. The Trust awards scholarships each year and they usually have the deadline at the beginning of December. 
 
@@ -106,7 +109,11 @@ Collaborating with two games studios ([Dream Reality Interactive](https://www.dr
 
 The work was based on reinforcement learning an imitation learning concepts using the [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) platform. The ML pipeline we built detects a social attitude (such as sympathy, aggression or social engagement) during an interaction in VR between the player and a non-player character. Together we conceptualised the pipeline, planed the study design, built the environment for data collection, trained & evaluated the model and part-integrated the pipeline in the final game product. 
 
-![Internship at DRI_gif](/assets/img/DRI_working_VR.gif)
+
+<p align="center">
+  <img src="/assets/img/DRI_working_VR.gif" />
+</p>
+<!-- ![Internship at DRI_gif](/assets/img/DRI_working_VR.gif) --!>
 
 Overall, this work introduces an immersive ML pipeline for detecting social attitudes and demonstrates how creatives could use ML and VR to expand their ability to design more engaging experiences. Here, Goldsmiths wrote [a news article](https://www.gold.ac.uk/news/peaky-blinders-vr/) about it.
 
