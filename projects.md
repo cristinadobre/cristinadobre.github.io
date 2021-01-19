@@ -31,11 +31,11 @@
 ## Winner of VIVE Dev Jam
 *January 2020*
 
-![Jan20 ViveJam](/assets/img/Jan20ViveJam.png)
+![Jan20 ViveJam](/assets/img/Jan20ViveJam.jpg)
 
 Or Pinky Mega team 4 (very spontaneous name, I know) won the [first prize](https://twitter.com/htcvive/status/1221865150916882433) at the VIVE developer Jam. 
 
-The team was formed of Carlos Gonzalez Diaz(https://carlotes247.github.io/), Claire Wu, [Lili Eva Bartha](https://www.lilievabartha.com/) and myself and we put together an active listening project where the user would drive the interaction (and the discourse) using their implicit behaviour. It was a lot of fun but also long hours of work. We were very sleep deprived after the whole weekend but also happy that we got the chance to meet new people and to play with some pretty cool new toys such as the lip tracker from VIVE. Goldsmiths University of London wrote [a blog post](http://www.doc.gold.ac.uk/blog/?p=2886) about us and other Goldsmiths students who attended the Jam.
+The team was formed of [Carlos Gonzalez Diaz](https://carlotes247.github.io/), Claire Wu, [Lili Eva Bartha](https://www.lilievabartha.com/) and myself and we put together an active listening project where the user would drive the interaction (and the discourse) using their implicit behaviour. It was a lot of fun but also long hours of work. We were very sleep deprived after the whole weekend but also happy that we got the chance to meet new people and to play with some pretty cool new toys such as the lip tracker from VIVE. Goldsmiths University of London wrote [a blog post](http://www.doc.gold.ac.uk/blog/?p=2886) about us and other Goldsmiths students who attended the Jam.
 
 ---
 
