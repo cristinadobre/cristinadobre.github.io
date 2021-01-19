@@ -31,12 +31,22 @@
 ## Winner of VIVE Dev Jam
 *January 2020*
 
+![Jan20 ViveJam](/assets/img/Jan20ViveJam.png)
+
+Or Pinky Mega team 4 (very spontaneous name, I know) won the [first prize](https://twitter.com/htcvive/status/1221865150916882433) at the VIVE developer Jam. 
+
+The team was formed of Carlos Gonzalez Diaz(https://carlotes247.github.io/), Claire Wu, [Lili Eva Bartha](https://www.lilievabartha.com/) and myself and we put together an active listening project where the user would drive the interaction (and the discourse) using their implicit behaviour. It was a lot of fun but also long hours of work. We were very sleep deprived after the whole weekend but also happy that we got the chance to meet new people and to play with some pretty cool new toys such as the lip tracker from VIVE. Goldsmiths University of London wrote [a blog post](http://www.doc.gold.ac.uk/blog/?p=2886) about us and other Goldsmiths students who attended the Jam.
+
 ---
 
 ## Speaker at the *AI and Character Driven Immersive Experiences Workshop*
 *December 2019*
 
 ![Dec19 Workshop](/assets/img/dec19workshopcombined.PNG)
+
+I ended 2019 with a [workshop](https://sites.google.com/view/gsvr) on how immersive experiences can be driven by AI and virtual characters. As soon as I finished my internship, I start helping plan this workshop with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/). It was an even that showed work from the academia (such as the work of [Prof Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) or [Prof Antonia Hamilton](http://www.antoniahamilton.com/)) but also from the industry world (Royal Shakespeare Company, or HTC VIVE). 
+
+I also had the chance to give a full presentation (and a demo) on the work I've done during my internship. It included the things I've learned and the AI tool we've developed. More on this to come, hopefully as a more polished project and with the published results. 
 
 ---
 <br>
