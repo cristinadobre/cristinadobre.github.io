@@ -2,27 +2,28 @@
 <br><br>
 ### Work & Studies
 
-I'm back at my PhD after I completed my internship at [Dream Reality Interactive (DRi)](https://www.dreamrealityinteractive.com/) studio. I'm stricty focusing on continuing the work started there, which uses an imitation learning approach to detect a human-defined concept within a social interaction between the user and an agent in VR.
+After a lot of continuation work on the project started during my internship at [DRi](https://www.dreamrealityinteractive.com/) studio, I'm moving a bit a away from social attitude detection to certain social behaviour that are the core of VR training application. 
+
+I plan to continue the prototype work done during the VIVE Dev Jam last year (where we won the first prize!). It was focused on ML models in VR active listening scenrios using the user's (and VC's) implicit behvaiour. 
+
 
 ### Books
-* [How Emotions Are Made](https://www.amazon.co.uk/How-Emotions-Are-Made-Secret/dp/0544133315) by Prof. Lisa Feldman Barrett
-* [The Distracted Mind](https://www.amazon.co.uk/Distracted-Mind-Ancient-Brains-High-Tech/dp/0262034948) by Adam Gazzaley & Larry D. Rosen
+* [Gut](https://www.goodreads.com/book/show/23013953-gut) by Giulia Enders
 * [How To](https://www.amazon.co.uk/How-Randall-Munroe/dp/1473680328) by Randall Munroe
+* [An Adventure in Statistics](https://uk.sagepub.com/en-gb/eur/an-adventure-in-statistics/book237529) by Andy Field
 
 
 ### Podcasts
-I'm not listening to any atm. Hit me up if you have any recomandations! 
+* [Stronger Minds](https://www.kimberleywilson.co/podcast) by Kimberley Wilson (only sporadically)
+I'm not listening to podcasts much atm. Hit me up if you have any recomandations! 
 
-~~I'm currently binge listening to these:~~
-~~* [Not Overthinking](https://notoverthinking.transistor.fm/)~~
-~~* [The joe rogan experience](http://podcasts.joerogan.net/)~~
 
 
 ### Events 
+27 - 31 January 2021
+* Jan 27th-31st [Global Game Jam](https://globalgamejam.org/)
 
-* Jan 24th-26th [VIVE Developer Jam](https://www.eventbrite.com/e/vive-developer-jam-london-registration-84737459021)
-* Jan 31st-Feb 2nd [Global Game Jam - York](https://globalgamejam.org/2020/jam-sites/university-york-ggj20)
-
+*I don't think it comes as a surprise, but all the events here are very likely to happen online. So do join if you're interested!*
 <br>
 
 ---
@@ -35,6 +36,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 <br>
 
-<sup>*This was last updated on 08/01/2020*  
+<sup>*This was last updated on 19/01/2021*  
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
 
