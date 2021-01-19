@@ -2,9 +2,9 @@
 <br><br>
 ### Work & Studies
 
-After a lot of continuation work on the project started during my internship at [DRi](https://www.dreamrealityinteractive.com/) studio, I'm moving a bit a away from social attitude detection to certain social behaviour that are the core of VR training application. 
+After a lot of continuation work on the project started during my internship at [DRi](https://www.dreamrealityinteractive.com/) studio, I'm moving a bit away from social attitude detection to certain social behaviours that are the core of VR training application.
 
-I plan to continue the prototype work done during the VIVE Dev Jam last year (where we won the first prize!). It was focused on ML models in VR active listening scenrios using the user's (and VC's) implicit behvaiour. 
+I plan to continue the prototype work done during the VIVE Dev Jam last year (where we won the first prize!). It was focused on ML models in VR active listening scenarios using the user's (and VC's) implicit behaviour.
 
 
 ### Books
@@ -15,15 +15,15 @@ I plan to continue the prototype work done during the VIVE Dev Jam last year (wh
 
 ### Podcasts
 * [Stronger Minds](https://www.kimberleywilson.co/podcast) by Kimberley Wilson (only sporadically)
-I'm not listening to podcasts much atm. Hit me up if you have any recomandations! 
+I'm not listening to podcasts much atm. Hit me up if you have any recommendations!
 
 
 
-### Events 
+### Events
 27 - 31 January 2021
 * Jan 27th-31st [Global Game Jam](https://globalgamejam.org/)
 
-*I don't think it comes as a surprise, but all the events here are very likely to happen online. So do join if you're interested!*
+*I don't think it comes as a surprise, but all the events here are very likely to happed online. So do join if you're interested!*
 <br>
 
 ---
