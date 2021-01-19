@@ -20,14 +20,16 @@
 
 ![GoogleWomanTechmakersScolarship](/assets/img/April20GoogleScholarship.PNG)
 
-
+I was so happy to find out that I was awarded the [Google Woman Techmakers](https://www.womentechmakers.com/) Scholarship. Unfortunately I the trip to the US was cancelled due to COVID-19 pandemic. There we would have met [all of the other scholars](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) and we would have had workshops and networking events. We had instead a very nicely organised online workshop where we met most of the scholars and we've got a very interesting talk from [Jade Raymond](https://en.wikipedia.org/wiki/Jade_Raymond), VP and Head of Stadia Games and Entertainment. 
 
 ---
 
-## Talk at Immersive UK
+## Webinar at Immersive UK
 *April 2020*
 
 ![ImmersiveUKTalk](/assets/img/April20ImmerseUKTalk.gif)
+
+Together with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/), we presented some of our work on AI-driven characters for virtual environments. The [webinar](https://www.immerseuk.org/news/registration-now-open-for-our-ai-driven-characters-lunchtime-live-webinar/) scratch the surface on how we can develop and drive virtual characters in interactions in VR, based on what we know from an academic and industry perspective.  
 
 ---
 
@@ -35,6 +37,8 @@
 *March 2020*
 
 ![RabinEzraScholarship](/assets/img/March20RabinEzra.png)
+
+I was awarded the [Rabin Ezra Scholarship](http://rabinezrascholarship.org/) which supports junior researchers. The Trust awards scholarships each year and they usually have the deadline at the beginning of December. 
 
 ---
 
@@ -74,7 +78,7 @@ Affective Computing & Intelligent Interaction) since the start of my research jo
 
 I have to say, I was very nervous about presenting it, but after that, I had lots of fun attending the rest of the conference. I could see in person some of the researchers I follow a lot such as [Catherine Pelachaud](http://pages.isir.upmc.fr/~pelachaud/), [Stacy Marsella](http://stacymarsella.org/Stacy_Marsella_Homepage/Stacy_Marsella_Homepage.html), [Jonathan Gratch](https://people.ict.usc.edu/~gratch/), [Rosalind Picard](https://www.media.mit.edu/people/picard/publications/), [Daniel McDuff](http://alumni.media.mit.edu/~djmcduff/) and many others. 
 
-There were three key-note speakers Simon Baron-Cohen, Lisa Feldman Barrett and Thomas Ploetz. All three were very insightful, however, Lisa Feldman Barrett gave a very on-point presentation on the machines perceiving emotions. [The key-note recording](https://www.youtube.com/watch?v=gPPHgeJHRF8) is on Youtube and, do have a look if you're interested in this subject. After the conference, I read her book [*How Emotions are Made*](https://lisafeldmanbarrett.com/books/how-emotions-are-made/) which was a very very good and easy-to-follow book. 
+There were three keynote speakers Simon Baron-Cohen, Lisa Feldman Barrett and Thomas Ploetz. All three were very insightful, however, Lisa Feldman Barrett gave a very on-point presentation on the machines perceiving emotions. [The keynote recording](https://www.youtube.com/watch?v=gPPHgeJHRF8) is on Youtube and, do have a look if you're interested in this subject. After the conference, I read her book [*How Emotions are Made*](https://lisafeldmanbarrett.com/books/how-emotions-are-made/) which was a very very good and easy-to-follow book. 
 
 
 ---
