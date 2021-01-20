@@ -20,7 +20,6 @@ I'm not listening to podcasts much atm. Hit me up if you have any recommendation
 
 
 ### Events
-27 - 31 January 2021
 * Jan 27th-31st [Global Game Jam](https://globalgamejam.org/)
 
 *I don't think it comes as a surprise, but all the events here are very likely to happed online. So do join if you're interested!*
