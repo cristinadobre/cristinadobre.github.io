@@ -123,7 +123,7 @@ The work was based on reinforcement learning an imitation learning concepts usin
 <p align="center">
   <img src="/assets/img/DRI_working_VR.gif" />
 </p>
-<!-- ![Internship at DRI_gif](/assets/img/DRI_working_VR.gif) --!>
+<!-- ![Internship at DRI_gif](/assets/img/DRI_working_VR.gif) -->
 
 Overall, this work introduces an immersive ML pipeline for detecting social attitudes and demonstrates how creatives could use ML and VR to expand their ability to design more engaging experiences. Here, Goldsmiths wrote [a news article](https://www.gold.ac.uk/news/peaky-blinders-vr/) about it.
 
@@ -136,7 +136,7 @@ Overall, this work introduces an immersive ML pipeline for detecting social atti
 
 This spring term I was an associate lecturer for the VR module in Goldsmiths. Along with [Leshao Zhang](https://twitter.com/zhangleshao?lang=en), I took care of the labs, while [Sylvia Pan](https://twitter.com/panxueni) was running the lectures. I was teaching mostly basics of Unity3D for VR applications and helping students with VR projects (just imagine lots of brainstorming, troubleshooting, code debugging and testing cool(!!) VR games and applications). They came up with really cool projects, there will be a blogpost about this soon! For now have a short list of some of them: Zombie Game, Furniture assembly, Bee Simulator(short video below), Stress-relieve smashing game, Water Meditation and Immersive 3D creation and visualisation tool. Marco Gillies wrote a more in-depth [blog post on Medium](https://medium.com/virtual-reality-virtual-people/vr-masters-projects-de45175e180c) about it.
 
-<!-- ![bee-simulator](/assets/img/bee-simulator.gif) --!>
+<!-- ![bee-simulator](/assets/img/bee-simulator.gif) -->
 <!--  <p><center><video src="/assets/img/bee-simulator.mp4" width="260" height="480" controls preload></video></center></p> -->
 
 <p align="center">
