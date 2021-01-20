@@ -6,6 +6,8 @@ After a lot of continuation work on the project started during my internship at 
 
 I plan to continue the prototype work done during the VIVE Dev Jam last year (where we won the first prize!). It was focused on ML models in VR active listening scenarios using the user's (and VC's) implicit behaviour.
 
+**I'm looking for internships!** Since my summer internship at Microsoft Research got cancelled due to the pandemic, I decided to try again this year. If you think I'd be a good fit in your lab/office, or if you have any suggestions, do get in touch! 
+
 
 ### Books
 * [Gut](https://www.goodreads.com/book/show/23013953-gut) by Giulia Enders
@@ -35,6 +37,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 <br>
 
-<sup>*This was last updated on 19/01/2021*  
+<sup>*This was last updated on 20/01/2021*  
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
 
