@@ -25,12 +25,12 @@ I was very excited to be working as an intern with [Jaron Lanier](http://www.jar
 
 ---
 
-## Award: Google Woman Techmakers Scholarship
+## Award: Google Women Techmakers Scholarship
 *April 2020*
 
-![GoogleWomanTechmakersScolarship](/assets/img/April20GoogleScholarship.PNG)
+![GoogleWomenTechmakersScolarship](/assets/img/April20GoogleScholarship.PNG)
 
-I was so happy to find out that I was awarded the [Google Woman Techmakers](https://www.womentechmakers.com/) Scholarship. Unfortunately, I the trip to the US was cancelled due to COVID-19 pandemic. There we would have met [all of the other scholars](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) and we would have had workshops and networking events. We had instead a very nicely organised online workshop where we met most of the scholars and we've got a very interesting talk from [Jade Raymond](https://en.wikipedia.org/wiki/Jade_Raymond), VP and Head of Stadia Games and Entertainment. 
+I was so happy to find out that I was awarded the [Google Women Techmakers](https://www.womentechmakers.com/) Scholarship. Unfortunately, I the trip to the US was cancelled due to COVID-19 pandemic. There we would have met [all of the other scholars](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) and we would have had workshops and networking events. We had instead a very nicely organised online workshop where we met most of the scholars and we've got a very interesting talk from [Jade Raymond](https://en.wikipedia.org/wiki/Jade_Raymond), VP and Head of Stadia Games and Entertainment. 
 
 ---
 
