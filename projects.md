@@ -7,13 +7,14 @@
 *October 2020*
 
 
-The [20th International Conference on Intelligent Virtual Agents](https://iva2020.psy.gla.ac.uk/) (IVA) was supposed to take place in Glasgow, but like all other conferences this year, it happened online. We presented there a workshop on [Immersive Interaction design for Intelligent Virtual Agents](https://iva2020.psy.gla.ac.uk/program/workshops/workshops/). It looked at how approaches to interaction design for body movement can be applied to interaction with IVAs, in particular to non-verbal communication with virtual agents. It was a hands-on workshop where [Nicola Plant](http://nicolaplant.co.uk/) and Clarice Hilton introduced a new interactive machine learning tool, [InteractML](http://interactml.com/). Those who attended used their own body movements to explore new ways of interacting with virtual agents and discovered InteractML that allowed for rapid implementation of these designs.
+![IVAConference](/assets/img/Oct20IVAinVR.png) 
 
-The organisers of IVA chose [Gather.Town](https://gather.town/) platform to host the event. From my perspective, it went really well. I enjoyed being able to *move* so that I can talk to people and to make sure to be in the auditorium on time for the main talk sessions. They also had [Salons](https://iva2020.psy.gla.ac.uk/program/salons/) where you'd stay at the table and have a discussion driven by a senior member of the community. I enjoyed these the most and I think they brought a bit of that networking feeling of being at a conference.
+The [20th International Conference on Intelligent Virtual Agents](https://iva2020.psy.gla.ac.uk/) (IVA) was supposed to take place in Glasgow, but like all other conferences this year, it happened online. We presented there a workshop on [Immersive Interaction design for Intelligent Virtual Agents](https://iva2020.psy.gla.ac.uk/program/workshops/workshops/). It looked at how approaches to interaction design for body movement can be applied to interaction with IVAs, in particular to non-verbal communication with virtual agents. It was a hands-on workshop where [Nicola Plant](http://nicolaplant.co.uk/) and Clarice Hilton introduced a new interactive machine learning tool, [InteractML](http://interactml.com/). Those who attended used their own body movements to explore new ways of interacting with virtual agents and discovered InteractML, that allowed for rapid implementation of these designs.
+
+The organisers of IVA chose [Gather.Town](https://gather.town/) platform to host the event. From my perspective, it went really well. I enjoyed being able to *move* so that I can talk to people and to make sure to be in the auditorium on time for the main talk sessions. They also had [Salons](https://iva2020.psy.gla.ac.uk/program/salons/) where you'd stay at the same table with others and have a discussion driven by a senior member of the community. I enjoyed these the most and I think they brought a bit of that networking feeling from being at a in-person conference.
 
 Here I also got to meet [Hannes Högni Vilhjálmsson](http://www.ru.is/faculty/hannes/) whose research is very interesting and diverse; Along with other organisers, he worked hard to make sure the conference went smoothly and also organised a VR afterparty with a Halloween theme. 
 
-![IVAConference](/assets/img/Oct20IVAinVR.png) 
 
 ---
 
@@ -21,7 +22,7 @@ Here I also got to meet [Hannes Högni Vilhjálmsson](http://www.ru.is/faculty/h
 *June 2020*
 
 
-I was very excited to be working as an intern with [Jaron Lanier](http://www.jaronlanier.com/) at the Office of the CTO at [Microsoft Research](https://www.microsoft.com/en-us/research/). Along with [M Eifler](http://www.blinkpopshift.com/) and others in the lab, we were supposed to work on a very interesting project that I probably can't say much about. Due to the COVID-19 pandemic, my internship had to be postponed to summer 2021. Unfortunately, later in the year, Microsoft Research decided to cancel the offered internships of those not residing in the US or Canada. For as much I would have enjoyed and learned during this internship, it couldn't happen at these challenging times. Hopefully, there will be a way to cross paths and work together with Jaron Lanier at some point in the future.
+I was very excited to have the chance to work as an intern with [Jaron Lanier](http://www.jaronlanier.com/) at the Office of the CTO at [Microsoft Research](https://www.microsoft.com/en-us/research/). Along with [M Eifler](http://www.blinkpopshift.com/) and others in the lab, we were supposed to work on a very interesting project that I probably can't say much about. Due to the COVID-19 pandemic, my internship had to be postponed to summer 2021. Unfortunately, later in the year, Microsoft Research decided to cancel the offered internships of those not residing in the US or Canada. For as much I would have enjoyed and learned during this internship, it couldn't happen at these challenging times. Hopefully, there will be a way to cross paths and work together with Jaron Lanier at some point in the future.
 
 ---
 
@@ -30,7 +31,7 @@ I was very excited to be working as an intern with [Jaron Lanier](http://www.jar
 
 ![GoogleWomenTechmakersScolarship](/assets/img/April20GoogleScholarship.PNG)
 
-I was so happy to find out that I was awarded the [Google Women Techmakers](https://www.womentechmakers.com/) Scholarship. Unfortunately, I the trip to the US was cancelled due to COVID-19 pandemic. There we would have met [all of the other scholars](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) and we would have had workshops and networking events. We had instead a very nicely organised online workshop where we met most of the scholars and we've got a very interesting talk from [Jade Raymond](https://en.wikipedia.org/wiki/Jade_Raymond), VP and Head of Stadia Games and Entertainment. 
+I was so happy to find out that I was awarded the [Google Women Techmakers](https://www.womentechmakers.com/) Scholarship. Unfortunately, the trip to the US and the workshop were cancelled due to COVID-19 pandemic. There we would have met [all other scholars](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) and we would have had workshops and networking events. We had instead a very nicely organised online workshop where we met most of the scholars and we've got a very interesting talk from [Jade Raymond](https://en.wikipedia.org/wiki/Jade_Raymond), VP and Head of Stadia Games and Entertainment. 
 
 ---
 
@@ -39,7 +40,7 @@ I was so happy to find out that I was awarded the [Google Women Techmakers](http
 
 ![ImmersiveUKTalk](/assets/img/April20ImmerseUKTalk.gif)
 
-Together with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/), we presented some of our work on AI-driven characters for virtual environments. The [webinar](https://www.immerseuk.org/news/registration-now-open-for-our-ai-driven-characters-lunchtime-live-webinar/) scratch the surface on how we can develop and drive virtual characters in interactions in VR, based on what we know from an academic and industry perspective.  
+Together with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/), we presented some of our work on AI-driven characters for virtual environments. The [webinar](https://www.immerseuk.org/news/registration-now-open-for-our-ai-driven-characters-lunchtime-live-webinar/) scratched the surface on how we can develop and drive virtual characters in interactions in VR, based on what we know from an academic and industry perspective.  
 
 ---
 
@@ -60,11 +61,11 @@ I was awarded the [Rabin Ezra Scholarship](http://rabinezrascholarship.org/) whi
 
 ![Jan20 ViveJam](/assets/img/Jan20ViveJam.jpg)
 
-Or Pinky Mega team 4 (very spontaneous name, I know) won the [first prize](https://twitter.com/htcvive/status/1221865150916882433) at the VIVE developer Jam. 
+Our Pinky Mega team 4 (very spontaneous name, I know) won the [first prize](https://twitter.com/htcvive/status/1221865150916882433) at the VIVE developer Jam. 
 
 The team was formed of [Carlos Gonzalez Diaz](https://carlotes247.github.io/), Claire Wu, [Lili Eva Bartha](https://www.lilievabartha.com/) and myself and we put together an active listening project where the user would drive the interaction (and the discourse) using their implicit behaviour. 
 
-It was a lot of fun but also long hours of work. We were very sleep deprived after the whole weekend but also happy that we got the chance to meet new people and to play with some pretty cool new toys such as the lip tracker from VIVE. Goldsmiths University of London wrote [a blog post](http://www.doc.gold.ac.uk/blog/?p=2886) about us and other Goldsmiths students who attended the Jam.
+It was a lot of fun but also long hours of work. We were very sleep deprived after the whole weekend but happy that we got the chance to meet new people and to play with some pretty cool new toys such as the lip tracker from VIVE. Goldsmiths University of London wrote [a blog post](http://www.doc.gold.ac.uk/blog/?p=2886) about us and other Goldsmiths students who attended the Jam.
 
 ---
 
@@ -73,7 +74,7 @@ It was a lot of fun but also long hours of work. We were very sleep deprived aft
 
 ![Dec19 Workshop](/assets/img/dec19workshopcombined.PNG)
 
-I ended 2019 with a [workshop](https://sites.google.com/view/gsvr) on how immersive experiences can be driven by AI and virtual characters. As soon as I finished my internship, I start helping plan this workshop with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/). It was an even that showed work from the academia (such as the work of [Prof Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) or [Prof Antonia Hamilton](http://www.antoniahamilton.com/)) but also from the industry world (Royal Shakespeare Company, or HTC VIVE). 
+I ended 2019 with a [workshop](https://sites.google.com/view/gsvr) on how immersive experiences can be driven by AI and virtual characters. As soon as I finished my internship, I started helping plan this workshop with [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/). It was an even that showed work from the academia (such as the work of [Prof Anthony Steed](https://wp.cs.ucl.ac.uk/anthonysteed/) or [Prof Antonia Hamilton](http://www.antoniahamilton.com/)) but also from the industry world (Royal Shakespeare Company, or HTC VIVE). 
 
 I also had the chance to give a full presentation (and a demo) on the work I've done during my internship. It included the things I've learned and the AI tool we've developed. More on this to come, hopefully as a more polished project and with the published results. 
 
@@ -91,7 +92,7 @@ Affective Computing & Intelligent Interaction) since the start of my research jo
 
 I have to say, I was very nervous about presenting it, but after that, I had lots of fun attending the rest of the conference. I could see in person some of the researchers I follow a lot such as [Catherine Pelachaud](http://pages.isir.upmc.fr/~pelachaud/), [Stacy Marsella](http://stacymarsella.org/Stacy_Marsella_Homepage/Stacy_Marsella_Homepage.html), [Jonathan Gratch](https://people.ict.usc.edu/~gratch/), [Rosalind Picard](https://www.media.mit.edu/people/picard/publications/), [Daniel McDuff](http://alumni.media.mit.edu/~djmcduff/) and many others. 
 
-There were three keynote speakers Simon Baron-Cohen, Lisa Feldman Barrett and Thomas Ploetz. All three were very insightful, however, Lisa Feldman Barrett gave a very on-point presentation on the machines perceiving emotions. [The keynote recording](https://www.youtube.com/watch?v=gPPHgeJHRF8) is on Youtube and, do have a look if you're interested in this subject. After the conference, I read her book [*How Emotions are Made*](https://lisafeldmanbarrett.com/books/how-emotions-are-made/) which was a very very good and easy-to-follow book. 
+There were three keynote speakers Simon Baron-Cohen, Lisa Feldman Barrett and Thomas Ploetz. All three were very insightful, however, Lisa Feldman Barrett gave a very on-point presentation on the machines perceiving emotions. [The keynote recording](https://www.youtube.com/watch?v=gPPHgeJHRF8) is on YouTube; do have a look if you're interested in this subject. After the conference, I read her book [*How Emotions are Made*](https://lisafeldmanbarrett.com/books/how-emotions-are-made/) which was a very very good and easy-to-follow book. 
 
 
 ---
@@ -102,7 +103,7 @@ There were three keynote speakers Simon Baron-Cohen, Lisa Feldman Barrett and Th
 
 ![IGGI Workshop talk](/assets/img/iggi19workshop.jpg)
 
-Along with [Carlos Gonzalez Diaz](https://carlotes247.github.io/), we organised a workshop for the annual *Intelligent Games & Game Intelligence ([IGGI](https://iggi.org.uk/)) Conference* in York, UK. We introduced the Unity3D ML-Agents platform, the algorithms that can be used within the framework with a focus on the imitation learning one: Behaviour Cloning. The attendees when through a tutorial to build a game by setting-up the ML-Agents framework, training it using Tensorflow and testing it back in the game engine. 
+Along with [Carlos Gonzalez Diaz](https://carlotes247.github.io/), we organised a workshop for the annual *Intelligent Games & Game Intelligence ([IGGI](https://iggi.org.uk/)) Conference* in York, UK. We introduced the Unity3D ML-Agents platform, the algorithms that can be used within the framework with a focus on the imitation learning one: Behaviour Cloning. The attendees went through a tutorial to build a game by setting-up the ML-Agents framework, training it using Tensorflow and testing it back in the game engine. 
 
 If you're interested, you can have a look at the [slides presented](https://docs.google.com/presentation/d/1Q7S3RcUPYF3c8m5Y22ruEv24_OBPnffpIoDStV60VY4/edit?usp=sharing) and at the [github repo](https://github.com/carlotes247/IGGI19_Imitation_Learning_Workshop) used in the workshop.
 
@@ -115,9 +116,9 @@ If you're interested, you can have a look at the [slides presented](https://docs
 
 ![Internship at DRI](/assets/img/DRI_working_PC.jpg)
 
-Collaborating with two games studios ([Dream Reality Interactive](https://www.dreamrealityinteractive.com/) and [Maze Theory](https://www.maze-theory.com/)) and with the academic suport from Goldsmiths UoL, we created an immersive ML pipeline for Virtual Reality experiences, project funded by [Innovate UK](https://www.ukri.org/councils/innovate-uk/). 
+Collaborating with two games studios ([Dream Reality Interactive](https://www.dreamrealityinteractive.com/) and [Maze Theory](https://www.maze-theory.com/)) and with the academic support from Goldsmiths UoL, we created an immersive ML pipeline for Virtual Reality experiences, project funded by [Innovate UK](https://www.ukri.org/councils/innovate-uk/). 
 
-The work was based on reinforcement learning an imitation learning concepts using the [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) platform. The ML pipeline we built detects a social attitude (such as sympathy, aggression or social engagement) during an interaction in VR between the player and a non-player character. Together we conceptualised the pipeline, planed the study design, built the environment for data collection, trained & evaluated the model and part-integrated the pipeline in the final game product. 
+The work was based on reinforcement learning and imitation learning concepts using the [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) platform. The ML pipeline we built detects a social attitude (such as sympathy, aggression or social engagement) during an interaction in VR between the player and a non-player character. Together we conceptualised the pipeline, planned the study design, built the environment for data collection, trained & evaluated the model and part-integrated the pipeline in the final game product. 
 
 
 <p align="center">
