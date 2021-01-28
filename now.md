@@ -6,7 +6,7 @@ After a lot of continuation work on the project started during my internship at 
 
 I plan to continue the prototype work done during the VIVE Dev Jam last year (where we won the first prize!). It was focused on ML models in VR active listening scenarios using the user's (and VC's) implicit behaviour.
 
-**I'm looking for internships!** Since my summer internship at Microsoft Research got cancelled due to the pandemic, I decided to try again this year. If you think I'd be a good fit in your lab/office, or if you have any suggestions, do get in touch! 
+**I'm looking for internships!** Since my summer internship at Microsoft Research got cancelled due to the pandemic, I decided to try again (for the last time) this year. If you think I'd be a good fit in your lab/office, or if you have any suggestions, do get in touch! 
 
 
 ### Books
@@ -16,13 +16,12 @@ I plan to continue the prototype work done during the VIVE Dev Jam last year (wh
 
 
 ### Podcasts
-* [Stronger Minds](https://www.kimberleywilson.co/podcast) by Kimberley Wilson (only sporadically)
 I'm not listening to podcasts much atm. Hit me up if you have any recommendations!
-
 
 
 ### Events
 * Jan 27th-31st [Global Game Jam](https://globalgamejam.org/)
+* Feb 19th-20th [Festival of Tomorrow](https://www.scienceswindon.com/festival-of-tomorrow)
 
 *I don't think it comes as a surprise, but all the events here are very likely to happed online. So do join if you're interested!*
 <br>
@@ -37,6 +36,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 <br>
 
-<sup>*This was last updated on 20/01/2021*  
+<sup>*This was last updated on 28/01/2021*  
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
 
