@@ -20,7 +20,6 @@ I'm not listening to podcasts much atm. Hit me up if you have any recommendation
 
 
 ### Events
-* Jan 27th-31st [Global Game Jam](https://globalgamejam.org/)
 * Feb 19th-20th [Festival of Tomorrow](https://www.scienceswindon.com/festival-of-tomorrow)
 
 *I don't think it comes as a surprise, but all the events here are very likely to happed online. So do join if you're interested!*
