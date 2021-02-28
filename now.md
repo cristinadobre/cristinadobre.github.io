@@ -20,8 +20,6 @@ I'm not listening to podcasts much atm. Hit me up if you have any recommendation
 
 
 ### Events
-* Feb 19th-20th [Festival of Tomorrow](https://www.scienceswindon.com/festival-of-tomorrow)
-* Feb 23rd-24th [AI and Gaming Research Summit - Microsoft Research](https://www.microsoft.com/en-us/research/event/aiandgaming2021/)
 * Mar 15th-16th International Women’s Day with Google Students 
 
 *I don't think it comes as a surprise, but almost all these events are very likely to happed online. So do join if you're interested!*
