@@ -35,6 +35,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 <br>
 
-<sup>*This was last updated on 18/02/2021*  
+<sup>*This was last updated on 28/02/2021*  
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
 
