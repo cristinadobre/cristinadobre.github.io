@@ -8,7 +8,7 @@ I plan to continue the prototype work done during the VIVE Dev Jam last year (wh
 
 
 ### Books
-* [Gut](https://www.goodreads.com/book/show/23013953-gut) by Giulia Enders
+* [The Gynae Geek](https://www.gynaegeek.com/the-book) by Dr Anita Mitra
 * [How To](https://www.amazon.co.uk/How-Randall-Munroe/dp/1473680328) by Randall Munroe
 * [An Adventure in Statistics](https://uk.sagepub.com/en-gb/eur/an-adventure-in-statistics/book237529) by Andy Field
 
@@ -18,7 +18,7 @@ I'm not listening to podcasts much atm. Hit me up if you have any recommendation
 
 
 ### Events
-* Mar 24th-26th [Neurolive: LIVENESS SYMPOSIUM](https://neurolive.info/Upcoming)
+* March 27th - April 2nd [IEEEVR 2021](https://ieeevr.org/2021/)
 
 *I don't think it comes as a surprise, but almost all these events are very likely to happed online. So do join if you're interested!*
 <br>
@@ -33,6 +33,6 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*
 
 <br>
 
-<sup>*This was last updated on 18/03/2021*  
+<sup>*This was last updated on 28/03/2021*  
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
 
