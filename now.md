@@ -2,37 +2,33 @@
 <br><br>
 ### Work & Studies
 
-After a lot of continuation work on the project started during my internship at [DRi](https://www.dreamrealityinteractive.com/) studio, I'm moving a bit away from social attitude detection to certain social behaviours that are the core of VR training application.
-
-I plan to continue the prototype work done during the VIVE Dev Jam last year (where we won the first prize!). It was focused on ML models in VR active listening scenarios using the user's (and VC's) implicit behaviour.
+I've started my PhD exploring the conversational dynamics on low-level nonverbal cues. Now, I'm back at it: gaze behaviour and speech, turn-taking and dyadic conversational dynamics, automatic conversational turn detection. This is what I'm focusing on, ahead of a very exciting **summer internship**! 
 
 
 ### Books
-* [The Gynae Geek](https://www.gynaegeek.com/the-book) by Dr Anita Mitra
-* [How To](https://www.amazon.co.uk/How-Randall-Munroe/dp/1473680328) by Randall Munroe
-* [An Adventure in Statistics](https://uk.sagepub.com/en-gb/eur/an-adventure-in-statistics/book237529) by Andy Field
+* [An Adventure in Statistics](https://uk.sagepub.com/en-gb/eur/an-adventure-in-statistics/book237529) by Andy Field (I'm slowly reading this book and I find myself going back to different sections in it)
 
 
 ### Podcasts
-I'm not listening to podcasts much atm. Hit me up if you have any recommendations!
+(I'm mostly listening to languages podcasts atm)
+- [Notes in Spanish Intermediate](https://www.notesinspanish.com/)
+- [Learn French by Podcast](https://learnfrenchbypodcast.com/)
 
 
 ### Events
-* March 27th - April 2nd [IEEEVR 2021](https://ieeevr.org/2021/)
+- no public events for now
 
-*I don't think it comes as a surprise, but almost all these events are very likely to happed online. So do join if you're interested!*
 <br>
 
 ---
 
 #### Any thoughts, suggestions? Contact me!
 send me your message at ***c*** dot ***dobre*** at ***gold*** dot ***ac*** dot ***uk*** 
-and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*  
+and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*  
 
 *So what now? Maybe check out [my projects](https://cristinadobre.github.io/projects.html) or see some basic stuff [about me](https://cristinadobre.github.io/)!*
 
 <br>
 
-<sup>*This was last updated on 28/03/2021*  
-This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
-
+<sup>*This was last updated on 06/05/2021*  
+This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
