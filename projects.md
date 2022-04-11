@@ -4,12 +4,17 @@
 
 ## LBW at CHI2022
 *April 2022*
+
+![TeaserPicturefromCHIPaper](/assets/img/CHI22.png) 
+
 An initial research outcome from the summer 2021 research project with [MSR Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) is going to be published at [CHI2022](https://programs.sigchi.org/chi/2022/program/content/73059)! The article is entitled: [Nice is Different than Good: Longitudinal Communicative Effects of Realistic and Cartoon Avatars in Real Mixed Reality Work](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/Dobre-et-al-2022-AvatarAppearance-CHILBW-CameraReady.pdf), and more information will be soon available.
 
 ---
 
 ## Journal article at Springer VR
 *March 2022*
+
+![TeaserMLPipelinefromPaper](/assets/img/SpringerVR22.png) 
 
 The research outcome that started with my first internship in 2019 is officially out! We investigated an immersive ML for social attitude detection in VR narrative games.
 
@@ -28,10 +33,13 @@ The main results were: (1) Listeners look more at the other person than speakers
 
 You can read the full paper here: [Direct Gaze Triggers Higher Frequency of Gaze Change: An Automatic Analysis of Dyads in Unstructured Conversation](https://research.gold.ac.uk/id/eprint/30683/1/3462244.3479962.pdf)
 
+![ThePosterfromICMI](/assets/img/ICMI21_Poster.jpg) 
+
 ---
 
 ## Internship at Microsoft Research Cambridge
 *Summer 2021*
+
 
 Over the summer of 2021, I had the opportunity to meet and work alongside a super talented and ambitious group of people from [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). For four months we cooked up a cutting-edge research project that would impact and feed into the next developments of collaboration in immersive environments (VR/MR).
 
@@ -44,6 +52,8 @@ After this design period, the more hands-on part started. It involved implementi
 This project was such an enriching experience! My PhD research was mostly focused on VR, hence I got first-hand experience with MR applications/devices and the differences from the VR ones. I would love to work on a project combining both VR and MR mediums!
 
 This was also my first longitudinal study. I have got an even clearer understanding of the benefits of prolonged exposure in the area of immersive virtual environments (MR/VR). Going forward, I am keen on designing more longitudinal research studies and I’ll appreciate much more the published longitudinal research out there!
+
+![SelfieWearingHL2](/assets/img/WearingHL2.jpg) 
 
 ---
 
