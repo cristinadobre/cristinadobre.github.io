@@ -49,11 +49,13 @@ Thus, we rolled up our sleeves and designed a study comparing two types of perso
 
 After this design period, the more hands-on part started. It involved implementing the MR environment for the networked meeting, creating a workflow for animating full-body avatars, building a telemetry system, recruiting participants from different departments and time zones. I screened 30+ participants out of which we recruited 14 (7 female, 6 male, 1 non-binary) forming 6 groups. Each participant was using a HoloLens 2 device and could see and interact in real-time with their colleagues' full-body avatar.
 
+![SelfieWearingHL2](/assets/img/triad_meeting_MSR.jpg) 
+
 This project was such an enriching experience! My PhD research was mostly focused on VR, hence I got first-hand experience with MR applications/devices and the differences from the VR ones. I would love to work on a project combining both VR and MR mediums!
 
 This was also my first longitudinal study. I have got an even clearer understanding of the benefits of prolonged exposure in the area of immersive virtual environments (MR/VR). Going forward, I am keen on designing more longitudinal research studies and I’ll appreciate much more the published longitudinal research out there!
 
-![SelfieWearingHL2](/assets/img/WearingHL2.jpg) 
+
 
 ---
 
