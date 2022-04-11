@@ -2,6 +2,50 @@
 <br><br>
 
 
+## LBW at CHI2022
+*April 2022*
+An initial research outcome from the summer 2021 research project with [MSR Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) is going to be published at [CHI2022](https://programs.sigchi.org/chi/2022/program/content/73059)! The article is entitled: [Nice is Different than Good: Longitudinal Communicative Effects of Realistic and Cartoon Avatars in Real Mixed Reality Work](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/Dobre-et-al-2022-AvatarAppearance-CHILBW-CameraReady.pdf), and more information will be soon available.
+
+---
+
+## Journal article at Springer VR
+*March 2022*
+
+The research outcome that started with my first internship in 2019 is officially out! We investigated an immersive ML for social attitude detection in VR narrative games.
+
+The work is published with [Springer Virtual Reality](https://www.springer.com/journal/10055), and the full paper can be found here: [Immersive machine learning for social attitude detection in virtual reality narrative games](https://link.springer.com/article/10.1007/s10055-022-00644-4)
+
+Special thanks to my supervisors and co-authors [Sylvia Pan](https://www.panxueni.com/) and [Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/), to the industry collaborators: [Dream Reality Interactive](https://www.dreamrealityinteractive.com/) and [Maze Theory](https://www.maze-theory.com/). The teaser video is upcoming!
+
+---
+
+## ICMI 2021
+*October 2021*
+
+I presented my work at the [International Conference on Multimodal Interaction](https://icmi.acm.org/2021/) (ICMI) on the gaze dynamics in dyads during an unstructured conversation using multimodal data. This work was in collaboration with [Antonia Hamilton’s Lab](http://www.antoniahamilton.com/) who kindly provided me with the data.
+
+The main results were: (1) Listeners look more at the other person than speakers.(2): When looked at, people switch between direct gaze and avert gaze with a higher frequency compared to when they are not looked at.(3): When not looked at people look more at the other person’s face (direct gaze) than somewhere else (avert gaze).
+
+You can read the full paper here: [Direct Gaze Triggers Higher Frequency of Gaze Change: An Automatic Analysis of Dyads in Unstructured Conversation](https://research.gold.ac.uk/id/eprint/30683/1/3462244.3479962.pdf)
+
+---
+
+## Internship at Microsoft Research Cambridge
+*Summer 2021*
+
+Over the summer of 2021, I had the opportunity to meet and work alongside a super talented and ambitious group of people from [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). For four months we cooked up a cutting-edge research project that would impact and feed into the next developments of collaboration in immersive environments (VR/MR).
+
+I was part of the [Future of Work group](https://www.microsoft.com/en-us/research/theme/future-of-work/), supervised by [Sean Rintel](https://www.microsoft.com/en-us/research/people/serintel/). I was very closely collaborating with [Marta Wilczkowiak](https://www.linkedin.com/in/marta-wilczkowiak-716b772) from the HoloLens group. The aim of the project was to understand how the looks of avatars impact the interaction in virtual environments. The current work in this area is not conclusive and there’s no literature from longitudinal studies.
+
+Thus, we rolled up our sleeves and designed a study comparing two types of personalised, full-body avatars. We considered cartoon-like and realistic avatars, all participants having their own avatars (in two styles!). Participants would run their usual, recurrent meetings every day for two weeks swapping the avatars halfway through. All meetings were in Mixed Reality (MR), using the [HoloLens 2](https://www.microsoft.com/en-gb/hololens/hardware) device.
+
+After this design period, the more hands-on part started. It involved implementing the MR environment for the networked meeting, creating a workflow for animating full-body avatars, building a telemetry system, recruiting participants from different departments and time zones. I screened 30+ participants out of which we recruited 14 (7 female, 6 male, 1 non-binary) forming 6 groups. Each participant was using a HoloLens 2 device and could see and interact in real-time with their colleagues' full-body avatar.
+
+This project was such an enriching experience! My PhD research was mostly focused on VR, hence I got first-hand experience with MR applications/devices and the differences from the VR ones. I would love to work on a project combining both VR and MR mediums!
+
+This was also my first longitudinal study. I have got an even clearer understanding of the benefits of prolonged exposure in the area of immersive virtual environments (MR/VR). Going forward, I am keen on designing more longitudinal research studies and I’ll appreciate much more the published longitudinal research out there!
+
+---
 
 ## Workshop at IVA2020
 *October 2020*
