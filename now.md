@@ -6,8 +6,12 @@ I've started my PhD exploring the conversational dynamics of low-level nonverbal
 
 
 ### Books
-* [An Adventure in Statistics](https://uk.sagepub.com/en-gb/eur/an-adventure-in-statistics/book237529) by Andy Field (I'm slowly reading this book and I find myself going back to different sections in it)
+* [How to Build a Healthy Brain](https://www.goodreads.com/book/show/50187795-how-to-build-a-healthy-brain) by Kimberley Wilson 
+* [The Midnight Library](https://www.goodreads.com/book/show/52578297-the-midnight-library?from_search=true&from_srp=true&qid=rGqoZbgoVL&rank=1) by Matt Haig
 * [Cheese: a global history](https://www.goodreads.com/book/show/6665178-cheese) by / Andrew Dalby
+
+
+
 
 
 ### Podcasts
@@ -15,7 +19,9 @@ _not listening to many podcasts nowadays. Any recommendations?_
 
 
 ### Events
-- 30th April to 5th May [CHI 2022](https://programs.sigchi.org/chi/2022/program/content/73059): I will present [my initial results](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/Dobre-et-al-2022-AvatarAppearance-CHILBW-CameraReady.pdf) from the MRS internship. 
+- 12th to 14th July [Develop Brighton](https://www.developconference.com): I will be part of [Peter Cowling's talk](https://www.developconference.com/whats-on/speakers/speaker-detail/peter-cowling)
+- 29th August to 2nd September [The Game AI Summer School](https://school.gameaibook.org/) in Chania, Greece (attendance pending)
+- 6th to 9th September [IVA22](https://ivaconference2022.ualg.pt) in Faro, Portugal
 
 <br>
 
@@ -29,5 +35,5 @@ and tweet/dm me *[@shesCristina](https://twitter.com/shesCristina)*  
 
 <br>
 
-<sup>*This was last updated on 11/04/2022*  
+<sup>*This was last updated on 08/07/2022*  
 This page is inspired by [Derek Sivers](https://sivers.org/).  Do you wonder why I have this section?  [Check this out](https://nownownow.com/about)!<sup>
