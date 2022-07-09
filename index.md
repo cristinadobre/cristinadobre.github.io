@@ -1,10 +1,10 @@
 # hi!
 <br><br>
 ### Me- for those in a rush
-I’m a PhD candidate at [Goldsmiths UoL](https://www.gold.ac.uk/), (part of [IGGI CDT](http://www.iggi.org.uk/)) exploring the nonverbal behaviour of virtual humans in [6DoF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) VR, aiming towards autonomous virtual humans. I’m supervised by [Sylvia (Xueni) Pan](www.panxueni.com) and [Marco Gillies](https://www.gold.ac.uk/computing/people/m-gillies/). 
-I’ve had research positions at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/theme/future-of-work/) (with [Sean Rintel](https://www.microsoft.com/en-us/research/people/serintel/) and [Marta Wilczkowiak](https://www.linkedin.com/in/marta-wilczkowiak-716b772/)) and [Dream Reality Interactive](https://www.dreamrealityinteractive.com/) (with [Dave Ranyard](https://www.linkedin.com/in/daveranyard)). 
+I’m a PhD candidate at [Goldsmiths UoL](https://www.gold.ac.uk/), (part of [IGGI CDT](http://www.iggi.org.uk/)) exploring the nonverbal behaviour of virtual humans in [6DoF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) VR, aiming towards autonomous virtual humans. I’m supervised by [Sylvia Pan](www.panxueni.com) and [Marco Gillies](https://www.gold.ac.uk/computing/people/m-gillies/). 
+I’ve had research positions at [MSR Cambridge](https://www.microsoft.com/en-us/research/theme/future-of-work/) (with [Sean Rintel](https://www.microsoft.com/en-us/research/people/serintel/) and [Marta Wilczkowiak](https://www.linkedin.com/in/marta-wilczkowiak-716b772/)) and [DRI](https://www.dreamrealityinteractive.com/) (with [Dave Ranyard](https://www.linkedin.com/in/daveranyard)). 
 
-I’ve published my work in [Springer VR journal](https://www.springer.com/journal/10055) (5.4  5y-impact factor), [CHI22](https://programs.sigchi.org/chi/2022/authors/72928), [ICMI21](https://dl.acm.org/doi/10.1145/3462244.3479962), [ACII19](https://acii-conf.net/2019/). My research is funded through various scholarships awards: [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S022325/1), [Google Women Techmakers](https://www.womentechmakers.com/), and [Rabin Ezra](http://rabinezrascholarship.org/).
+I’ve published my work in [Springer VR](https://www.springer.com/journal/10055) (5.4  5y-impact factor), [CHI22](https://programs.sigchi.org/chi/2022/authors/72928), [ICMI21](https://dl.acm.org/doi/10.1145/3462244.3479962), [ACII19](https://acii-conf.net/2019/). My research is funded through various scholarships awards: [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S022325/1), [Google Women Techmakers](https://www.womentechmakers.com/), and [Rabin Ezra](http://rabinezrascholarship.org/).
 
 
 
