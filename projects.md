@@ -5,7 +5,7 @@
 ## IVA22
 *September 2022*
 
-I'm back at [IVA22](https://ivaconference2022.ualg.pt/) presenting the work: _More than buttons on controllers: engaging social interactions in narrative VR games through social attitudes detection_. It highlights the indutry-academia collaboration focusing on the contributions of building agents for the games industry and showcasing work's benefits in the industry overall. So if you're there, swing by on [Thrusday 8th Sept](https://ivaconference2022.ualg.pt/program/schedule/)!
+I'm back at [IVA22](https://ivaconference2022.ualg.pt/) presenting the work: _More than buttons on controllers: engaging social interactions in narrative VR games through social attitudes detection_. It highlights the industry-academia collaboration focusing on the contributions of building agents for the games industry and showcasing work's benefits in the industry overall. So if you're there, swing by on [Thursday 8th Sept](https://ivaconference2022.ualg.pt/program/schedule/)!
 
 I'm also presenting my PhD work overall as a Doctoral Consortium paper on Tuesday 6th of Sept. It covers the research done so far in my PhD, very much like a synopsis of my thesis.  
 The papers will be available soon!
