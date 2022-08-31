@@ -2,12 +2,34 @@
 <br><br>
 
 
+## IVA22
+*September 2022*
+
+I'm back at [IVA22](https://ivaconference2022.ualg.pt/) presenting the work: _More than buttons on controllers: engaging social interactions in narrative VR games through social attitudes detection_. It highlights the indutry-academia collaboration focusing on the contributions of building agents for the games industry and showcasing work's benefits in the industry overall. So if you're there, swing by on [Thrusday 8th Sept](https://ivaconference2022.ualg.pt/program/schedule/)!
+
+I'm also presenting my PhD work overall as a Doctoral Consortium paper on Tuesday 6th of Sept. It covers the research done so far in my PhD, very much like a synopsis of my thesis.  
+The papers will be available soon!
+
+
+---
+
+## Develop22 in Brighton
+*July 2022*
+
+![PresentationScreenshop](/assets/img/Develop22.jpg) 
+
+  My research on implicit and engaging social interactions through social attitudes detection was showcased as [a short video](https://youtu.be/7EX-eOrKEY8) part of Prof. [Peter Cowling](http://www.petercowling.com/)'s talk at [Develop Conference](https://www.developconference.com/). It was a great experience to be part of the largest games conference in the UK!
+
+---
+
 ## LBW at CHI2022
 *April 2022*
 
 ![TeaserPicturefromCHIPaper](/assets/img/CHI22.png) 
 
-An initial research outcome from the summer 2021 research project with [MSR Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) is going to be published at [CHI2022](https://programs.sigchi.org/chi/2022/program/content/73059)! The article is entitled: [Nice is Different than Good: Longitudinal Communicative Effects of Realistic and Cartoon Avatars in Real Mixed Reality Work](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/Dobre-et-al-2022-AvatarAppearance-CHILBW-CameraReady.pdf), and more information will be soon available.
+An initial research outcome from the summer 2021 research project with [MSR Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) is going to be published at [CHI2022](https://programs.sigchi.org/chi/2022/program/content/73059)! The article is entitled: [Nice is Different than Good: Longitudinal Communicative Effects of Realistic and Cartoon Avatars in Real Mixed Reality Work](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/Dobre-et-al-2022-AvatarAppearance-CHILBW-CameraReady.pdf), and was presented in April at CHI22. Check out the [preview video](https://www.youtube.com/watch?v=qpjncmVbBdc) and the [presentation video](https://www.youtube.com/watch?v=vfOXvFyJghM). 
+
+![PosterPicturefromCHIPaper](/assets/img/CHI22_Poster.jpg) 
 
 ---
 
