@@ -10,7 +10,6 @@ I'm back at [IVA22](https://ivaconference2022.ualg.pt/) presenting the work: _Mo
 I'm also presenting my PhD work overall as a Doctoral Consortium paper on Tuesday 6th of Sept. It covers the research done so far in my PhD, very much like a synopsis of my thesis.  
 The papers will be available soon!
 
-
 ---
 
 ## Develop22 in Brighton
