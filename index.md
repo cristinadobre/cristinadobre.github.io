@@ -1,7 +1,7 @@
 # hi!
 <br><br>
 
-I'm a technical multimodal VR and ML researcher with a focus on social interactions in virtual environments. Currenlty, I'm based at the [HCAI lab](LINK) led by Prof. Elisabeth Andre, researching group engagement in VR classrooms with a focus on non-verbal cues, particularly eye tracking. I completed my [PhD](https://eprints.goldsmiths.ac.uk/id/eprint/34326/1/COM_thesis_DobreGC_2023.pdf) at [Goldsmiths UoL](https://www.gold.ac.uk/), (part of [IGGI CDT](http://www.iggi.org.uk/)) exploring the nonverbal behaviour of virtual humans in [6DoF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) VR, supervised by [Sylvia Pan](www.panxueni.com) and [Marco Gillies](www.gold.ac.uk/computing/people/m-gillies/).
+I'm a technical multimodal VR and ML researcher with a focus on social interactions in virtual environments. Currenlty, I'm based at the [HCAI lab](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/hcm/) led by Prof. Elisabeth Andre, researching group engagement in VR classrooms with a focus on non-verbal cues, particularly eye tracking. I completed my [PhD](https://eprints.goldsmiths.ac.uk/id/eprint/34326/1/COM_thesis_DobreGC_2023.pdf) at [Goldsmiths UoL](https://www.gold.ac.uk/), (part of [IGGI CDT](http://www.iggi.org.uk/)) exploring the nonverbal behaviour of virtual humans in [6DoF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) VR, supervised by [Sylvia Pan](www.panxueni.com) and [Marco Gillies](www.gold.ac.uk/computing/people/m-gillies/).
 
 
 ### Selected Publications
