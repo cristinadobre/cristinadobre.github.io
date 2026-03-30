@@ -11,6 +11,6 @@ I'm a technical multimodal VR and ML researcher with a focus on social interacti
 
 * Dobre, G. C., Gillies, M., Pan, X. 2022. Immersive Machine Learning for Social Attitude Detection in Virtual Reality Narrative Games. Virtual Reality Journal ([pdf](./publications/Immersive_Machine _Learning_Narrative_Games.pdf))
 
-* Dobre, G. C., Wilczkowiak, M., Gillies, M., Pan, X., Rintel, S. 2022. Nice is Different than Good: Longitudinal  Communicative Effects of Realistic and Cartoon Avatars in Real Mixed Reality Work Meetings. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems ([pdf](./publications/.pdf))
+* Dobre, G. C., Wilczkowiak, M., Gillies, M., Pan, X., Rintel, S. 2022. Nice is Different than Good: Longitudinal  Communicative Effects of Realistic and Cartoon Avatars in Real Mixed Reality Work Meetings. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems ([pdf](./publications/Nice_is_different_than_good.pdf))
 
 Check out my [Google Scholar profile](https://scholar.google.com/citations?user=YVfBldUAAAAJ&hl=en) for a complete list of publications.
