@@ -1,6 +1,6 @@
 # selection of projects, talks, awards
 <br><br>
-
+_This page is in the process of being updated. Please come back later!_
 
 ## IVA22
 *September 2022*
