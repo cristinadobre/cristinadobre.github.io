@@ -1,6 +1,117 @@
 # selection of projects, talks, awards
-<br><br>
-**_This page is in the process of being updated. Please come back later!_**
+<br>
+
+## Alumni Speaker at IGGI Conference
+*September 2026*
+
+![Cristina at IGGIcon2026](assets/img/Cristina_IGGICon2026.jpg)
+I got invited to speak at the [IGGI conference]() in London, as one of the Alumni members. I attended almost all IGGI conferences over the years, and I helped organise a few of them. This last conference made it possible to reconnect with many IGGI alumni, many scattered across the globe. 
+My talk covered the VR game scene, including the directions and implications that VR social interaction research has on this field. The talk recording will be available soon, so watch this space. 
+
+
+---
+## Dagstuhl Seminar on Avatars
+*June 2026*
+
+![Dagsthul Group Picture](assets/img/Dagstuhl_26262.jpg)
+I got invited to attend a [Dagstuhl Seminar on Virtual Bodies for Virtual Humans](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26262), alongside other researchers whose work put the foundations in the VR and social interaction field. The week-long seminar included numerous brainstorming activities, panels and informal discussions on the VR avatars field. 
+
+---
+
+## Games Programming Master Course
+I have been part of the teaching team of the Games Programming course and have been supervising master's students on their projects. Prototyping and a lot of testing lead to some interesting games. A showcase of the projects can be seen on the [masters’ programme website](https://hcai.eu/gamedev/) 
+
+---
+
+## Project highlighted at Augsburg University 
+*December 2025*
+
+My project on VR classroom interactions in small groups has been featured in the university [video on Social AI](https://www.youtube.com/watch?v=FrXgDS-3GiM&t=194s). Alongside my work, the video highlights the HCAI Chair research efforts and the diversity of projects. 
+
+
+
+---
+## Human-Computer Studies Journal Paper
+*September 2025*
+
+The results from the longitudinal study on avatars’ appearance have been published in the International Journal of Human-Computer Studies. The work highlights the differences between realistic and cartoon-like avatars during real work meetings over time. This work started during my 4-month internship at MSR Cambridge, where I designed, implemented and ran the study under the supervision of [Sean Rintel](https://www.seanrintel.me/) and [Marta Wilczkowiak](https://www.microsoft.com/en-us/research/people/mawilczk/).
+The paper “Avatars in mixed-reality meetings: A longitudinal field study of realistic versus cartoon facial likeness effects on communication, task satisfaction, presence, and emotional perception” is available open access on the [publisher’s website](https://doi.org/10.1016/j.ijhcs.2025.103632).
+
+
+---
+
+## Women in Data Science Regensburg
+*May 2025*
+
+![Women in Datascience Regensburg](/assets/img/WiDS_Regensburg.png)
+I attended the annual workshop of Women in Data Science in Regensburg. I discovered there the work of fantastic women at different stages in their careers, from master's students to research scientists in different large corporations. 
+
+
+---
+
+## PhD Graduation 
+*September 2024*
+
+![Cristina PhD graduation](/assets/img/2024_Graduation_Marco.jpg)
+After defending my PhD a year ago, I attended my graduation wearing the red gown and the funniest hat, somehow a metaphor for the many hats one would wear during their academic journey. A big thank you to everyone who mentored and offered support throughout my PhD, especially my supervisors, [Sylvia Pan]() and [Marco Guilles]().
+
+
+---
+
+## VR for Good - Best Paper Runner-up Prize
+*April 2024*
+
+I presented my work titled [Avatars in mixed reality meetings: A field study of
+avatar facial realism on felt and perceived emotion](https://zenodo.org/records/10993751) at the [Metaverse for Good](https://www.neurociencies.ub.edu/emrn-2024-conference-on-the-metaverse-shaping-the-future-of-virtual-reality/) conference in Barcelona, organised by [Eventlab](https://www.ub.edu/eventlab/EventLab/events.html). The work was selected as the runner-up for the best paper prize. 
+
+---
+
+## Latest Advances in Diversifying AI Workshop
+*October 2023*
+
+![Diversifying AI Workshop Group Picture](/assets/img/2023_DiversifyingAI_group.jpg) 
+I attended and presented a demo of my current work on classroom interactions in VR. The  [Advances in Diversifying AI](https://hcai.eu/diversifying-ai/) workshop included inspiring keynote speakers and thought-provoking discussion sessions. 
+
+---
+
+
+## PhD Defence
+*June 2023*
+
+![PhD VIVA](/assets/img/Post_Viva_Picture.jpeg)
+
+I passed my PhD viva in Goldsmiths University of London,  after hours of fruitful discussion on my past research projects with my examiners [Prof. Antony Steed](https://profiles.ucl.ac.uk/9368-anthony-steed) and [Prof. Jonathan Gratch](https://ict.usc.edu/about-us/leadership/research-leadership/jonathan-gratch/). 
+My PhD thesis, titled “Social Interactions in Immersive Virtual Environments: People, Agents, and Avatar” covered how people’s interactions in the real world can be used for VR Agents creation, how people interact with Agents in VR and how avatars' appearance influences social interactions in Virtual Environments. 
+ 
+![PhD Thesis summary](/assets/img/Thesis_Overview_Slide.png)
+
+I was supervised by the amazing [Prof. Sylvia Pan](https://www.panxueni.com/) and [Prof. Marco Gillies](https://www.gold.ac.uk/computing/people/m-gillies/), while being funded by the [IGGI CTD](https://www.iggi-phd.org/). During my PhD, I collaborated with academic labs and industry partners (Institute of Cognitive Neuroscience at University College London, Microsoft Research Cambridge, Maze Theory and Dream Reality Interaction). My work has also been shaped by the mentorship I received from [Sean Rintel](https://www.seanrintel.me/) and [Marta Wilczkowiak](https://www.microsoft.com/en-us/research/people/mawilczk/) from MSR Cambridge. 
+
+---
+
+## Mingling Workshop Delft
+*May 2023*
+
+I attended and presented my initial work on VR classroom interactions as poster at the [Interdisciplinary Perspectives on Technologies for Mingling](hhung.github.io/MINGLEfinalworkshop) organised by [Hayley Hung](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/socially-perceptive-computing-lab/people/hayley-hung) and [Chirag Raman](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/human-oriented-machine-intelligence-unit/tapri-lab/people/chirag-raman) from TU Delft. 
+
+---
+
+## Postdoctoral Position at HCAI Augsburg
+*April 2023*
+
+![HCAI-Red-Horse](/assets/img/augsburg_red_horse.jpg)
+
+I am starting a 3-year postdoctoral position at HCAI Augsburg, Germany, led by Prof. Elisabeth Andre. I will be working on a project centred on group interaction in VR classrooms, in collaboration with two pedagogical labs from Würzburg University and TUM, and the HCI lab from Würzburg University, using the Vilearn VR teaching platform. I am excited for the next chapter and for the opportunities ahead!
+
+---
+
+## Invited Talk at HCAI Augsburg
+*November 2022*
+
+![Cristina-Talk-Augsburg-Uni](/assets/img/2022_Talk_Augsburg.jpg)
+I got invited to present my research work and interests at the Augsburg University chair for [Human-Centered Artificial Intelligence](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/) (HCAI), led by [Prof. Elisabeth Andre](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/team/andre/). I got to test the lab’s demos and learned about promising research from this lab. 
+
+---
 
 ## IVA22
 *September 2022*
