@@ -19,6 +19,7 @@ I got invited to attend a [Dagstuhl Seminar on Virtual Bodies for Virtual Humans
 ---
 
 ## Games Programming Master Course
+
 I have been part of the teaching team of the Games Programming course and have been supervising master's students on their projects. Prototyping and a lot of testing lead to some interesting games. A showcase of the projects can be seen on the [masters’ programme website](https://hcai.eu/gamedev/) 
 
 ---
@@ -28,12 +29,11 @@ I have been part of the teaching team of the Games Programming course and have b
 
 My project on VR classroom interactions in small groups has been featured in the university [video on Social AI](https://www.youtube.com/watch?v=FrXgDS-3GiM&t=194s). Alongside my work, the video highlights the HCAI Chair research efforts and the diversity of projects. 
 
-
-
 ---
 ## Human-Computer Studies Journal Paper
 *September 2025*
 
+![Journal_Paper_Avatars_Figure](/assets/img/Journal_Paper_Avatars.jpg)
 The results from the longitudinal study on avatars’ appearance have been published in the International Journal of Human-Computer Studies. The work highlights the differences between realistic and cartoon-like avatars during real work meetings over time. This work started during my 4-month internship at MSR Cambridge, where I designed, implemented and ran the study under the supervision of [Sean Rintel](https://www.seanrintel.me/) and [Marta Wilczkowiak](https://www.microsoft.com/en-us/research/people/mawilczk/).
 The paper “Avatars in mixed-reality meetings: A longitudinal field study of realistic versus cartoon facial likeness effects on communication, task satisfaction, presence, and emotional perception” is available open access on the [publisher’s website](https://doi.org/10.1016/j.ijhcs.2025.103632).
 
@@ -53,6 +53,7 @@ I attended the annual workshop of Women in Data Science in Regensburg. I discove
 *September 2024*
 
 ![Cristina PhD graduation](/assets/img/2024_Graduation_Marco.jpg)
+
 After defending my PhD a year ago, I attended my graduation wearing the red gown and the funniest hat, somehow a metaphor for the many hats one would wear during their academic journey. A big thank you to everyone who mentored and offered support throughout my PhD, especially my supervisors, [Sylvia Pan]() and [Marco Guilles]().
 
 
