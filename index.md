@@ -5,7 +5,7 @@ I'm a technical multimodal VR and ML researcher with a focus on social interacti
 
 
 ### Selected Publications
-* Gonzalez Diaz, C.*, Dobre, G.C.*, André E., Conati, C. 2026. Gaze for Dyads & Blinks for Triads: Task Engagement Predictors in Free-Flow VR Interactions. IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR), *shared first authorship ([pdf](./publications/Gaze_for_Dyads_amp_Blinks_for_Triads_Task_Engagement_Predictors_in_Free-Flow_VR_Interactions.pdf))
+* Gonzalez Diaz, C.\*, Dobre, G.C.\*, André E., Conati, C. 2026. Gaze for Dyads & Blinks for Triads: Task Engagement Predictors in Free-Flow VR Interactions. IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR), *equal contribution ([pdf](./publications/Gaze_for_Dyads_amp_Blinks_for_Triads_Task_Engagement_Predictors_in_Free-Flow_VR_Interactions.pdf))
 
 * Dobre, G.C., Wilczkowiak, M., Gillies, M., Pan, X., Rintel, S., 2025. Avatars in Mixed-Reality meetings: A Longitudinal Field Study of Realistic versus Cartoon Facial Likeness Effects on Communication, Task Satisfaction Presence, and Emotional Perception. International Journal of Human-Computer Studies ([pdf](./publications/Avatars _in _MixedReality _meetings.pdf))
 
