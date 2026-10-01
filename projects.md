@@ -5,7 +5,7 @@
 *September 2026*
 
 ![Cristina at IGGIcon2026](assets/img/Cristina_IGGICon2026.jpg)
-I got invited to speak at the [IGGI conference]() in London, as one of the Alumni members. I attended almost all IGGI conferences over the years, and I helped organise a few of them. This last conference made it possible to reconnect with many IGGI alumni, many scattered across the globe. 
+I got invited to speak at the [IGGI conference](https://www.iggi2026.org/) in London, as one of the Alumni members. I attended almost all IGGI conferences over the years, and I helped organise a few of them. This last conference made it possible to reconnect with many IGGI alumni, many scattered across the globe. 
 My talk covered the VR game scene, including the directions and implications that VR social interaction research has on this field. The talk recording will be available soon, so watch this space. 
 
 
@@ -15,6 +15,15 @@ My talk covered the VR game scene, including the directions and implications tha
 
 ![Dagsthul Group Picture](assets/img/Dagstuhl_26262.jpg)
 I got invited to attend a [Dagstuhl Seminar on Virtual Bodies for Virtual Humans](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26262), alongside other researchers whose work put the foundations in the VR and social interaction field. The week-long seminar included numerous brainstorming activities, panels and informal discussions on the VR avatars field. 
+
+---
+
+## AIxVR in Osaka
+*January 2026*
+
+![Cristina presenting at AIxVR](assets/img/Cristina_AIxVR2026.jpeg)
+I presented the paper “Gaze for Dyads & Blinks for Triads: Task Engagement
+Predictors in Free-Flow VR Interactions” at AIxVR conference in Osaka. We showcased the initial work on how low-level eye data can be predictors of task engagement in different group sizes. The full paper can be found (on the IEEExplore website)[https://ieeexplore.ieee.org/document/11449963]. All in all, I had a great time attending the conference and exploring work at the intersection of VR and AI, including virtual characters and smell in VR. 
 
 ---
 
