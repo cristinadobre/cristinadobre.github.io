@@ -208,7 +208,7 @@ footer {
 nav {
   width: 230px;
   position: fixed;
-  top: 220px;
+  top: 100px;
   right:50%;
   margin-right:-650px;
   text-align: left;
@@ -218,6 +218,9 @@ nav {
     list-style-image:none;
     font-size: 13px;
     line-height:24px;
+    overflow-y: auto;
+    height: 80vh;
+    scrollbar-width: none;
 
     li {
       padding: 5px 0px;
