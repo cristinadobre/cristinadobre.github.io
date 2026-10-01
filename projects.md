@@ -21,7 +21,6 @@ I got invited to attend a [Dagstuhl Seminar on Virtual Bodies for Virtual Humans
 ## AIxVR in Osaka
 *January 2026*
 
-![Cristina presenting at AIxVR](assets/img/Cristina_AIxVR2026.jpeg)
 I presented the paper “Gaze for Dyads & Blinks for Triads: Task Engagement
 Predictors in Free-Flow VR Interactions” at AIxVR conference in Osaka. We showcased the initial work on how low-level eye data can be predictors of task engagement in different group sizes. The full paper can be found (on the IEEExplore website)[https://ieeexplore.ieee.org/document/11449963]. All in all, I had a great time attending the conference and exploring work at the intersection of VR and AI, including virtual characters and smell in VR. 
 
